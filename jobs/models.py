@@ -11,3 +11,15 @@ class Product(models.Model):
     class Meta:
         # default sorting order for searches in the product class
         ordering = ['qb_number']
+
+class Job(models.Model):
+    job_number = models.CharField(max_length=10, unique=True)
+    create_date = models.DateField(auto_now_add=True)
+    product = models.ForeignKey(Product, on_delete=models.CASCADE, db_index=False)
+    quantity = models.CharField(max_length=10)
+    start_date = models.DateField()
+    machine_deadline = models.DateField()
+
+    class Meta:
+        # default sorting order for searches in the job class
+        ordering = ['-create_date', '-start_date']

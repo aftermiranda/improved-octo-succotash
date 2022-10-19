@@ -7,6 +7,18 @@ Job List
 {% endblock %}
 
 {% block page_content %}
-<h1>Welcome to the Job Listing page!</h1>
+<<h1 class="center">Job List</h1>
+    {% if newest_jobs %}
+        <table class="table table-striped">
+        {% for job in newest_jobs %}
+            <tr>
+                <td><a href="">{{ job.job_number }}</a></td>
+                <td>{{ job.create_date }}</td>
+            </tr>
+        {% endfor %}
+        </table>
+    {% else %}
+        <p>No jobs available</p>
+    {% endif %}
 
 {% endblock %}
