@@ -1,9 +1,9 @@
 from django.db import models
 
 class Product(models.Model):
-    qb_number = models.CharField(max_length=20, unique=True,
+    qb_number = models.CharField(max_length=50, unique=True,
                                  verbose_name="Quick Books Number")
-    eng_number = models.CharField(max_length=20,
+    eng_number = models.CharField(max_length=50,
                                   verbose_name="Engineering Number")
     part_name = models.CharField(max_length=200,
                                  verbose_name="Part Name")
