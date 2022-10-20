@@ -62,7 +62,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CSRF_COOKIE_DOMAIN = '.herokuapp.com'
+CSRF_TRUSTED_ORIGINS = ['https://pure-basin-89981.herokuapp.com']
 
 ROOT_URLCONF = 'portfolio.urls'
 
