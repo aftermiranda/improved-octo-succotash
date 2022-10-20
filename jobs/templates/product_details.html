@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title_content %}
+<title>Details for {{ product.qb_number }}</title>
+{% endblock %}
+
+{% block page_content %}
+    <h1>{{ product.qb_number }}</h1>
+    <p>Engineering Number : {{ product.eng_number }}</p>
+    <p>Part Name : {{ product.part_name }}</p>
+    <p>Part Length : {{ product.part_length }} inches</p>
+    <p>Part Material : {{ product.part_material }}</p>
+{% endblock %}

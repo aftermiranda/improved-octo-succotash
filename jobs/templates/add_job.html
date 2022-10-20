@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %}
+<title>Create Job</title>
+{% endblock %}
+
+{% block content %}
+
+<h1>New Job</h1>
+
+    <form method="post">
+        {% csrf_token %}
+
+        {{ formset.management_form }}
+        {% for form in formset %}
+
+            {% for field in form.visible_fields %}
+                <div class="row mb-3">
+                    <div class="col col-form-label">{{ field.label_tag }}</div>
+                    <div class="col-sm-7">{{ field }}</div>
+                </div>
+            {% endfor %}
+
+        {% endfor %}
+
+        <input type="submit" value="Create Job">
+    </form>
+{% endblock %}

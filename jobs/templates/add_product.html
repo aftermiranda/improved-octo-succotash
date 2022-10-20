@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title_content %}
+<title>New Product</title>
+{% endblock %}
+
+{% block page_content %}
+<h1>Add a New Product to the Catalog</h1>
+<br>
+<form method="post">
+    {% csrf_token %}
+
+    {{ formset.management_form }}
+    {% for form in formset %}
+        {% for field in form.visible_fields %}
+            <div class="row mb-3">
+                <div class="col col-form-label">{{ field.label_tag }}</div>
+                <div class="col-sm-7">{{ field }}</div>
+            </div>
+        {% endfor %}
+    {% endfor %}
+    <input type="submit" value="Add Product">
+</form>
+{% endblock %}

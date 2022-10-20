@@ -12,7 +12,7 @@ Job List
         <table class="table table-striped">
         {% for job in newest_jobs %}
             <tr>
-                <td><a href="">{{ job.job_number }}</a></td>
+                <td><a href="{% url 'jobs:job_sheet' job.job_number %}">{{ job.job_number }}</a></td>
                 <td>{{ job.create_date }}</td>
             </tr>
         {% endfor %}
