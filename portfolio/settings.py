@@ -62,7 +62,10 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+CSRF_COOKIE_DOMAIN = '.herokuapp.com'
+
 ROOT_URLCONF = 'portfolio.urls'
+
 
 TEMPLATES = [
     {
