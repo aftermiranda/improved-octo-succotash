@@ -34,7 +34,7 @@ else:
     ALLOWED_HOSTS = []
 
 if IS_HEROKU:
-    DEBUG = False
+    DEBUG = True
 else:
     DEBUG = True
 
