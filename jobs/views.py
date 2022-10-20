@@ -68,7 +68,7 @@ def add_product(request):
         formset = add_form_set(request.POST)
         if formset.is_valid():
             formset.save()
-            return HttpResponseRedirect(reverse('product_list'))
+            return HttpResponseRedirect(reverse('jobs:product_list'))
         else:
             raise ValidationError({
                 'qb_number': ValidationError(_('Quick Books number must be unique'), code='invalid'),

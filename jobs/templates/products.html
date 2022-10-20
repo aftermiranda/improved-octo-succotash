@@ -7,5 +7,23 @@
 {% endblock %}
 
 {% block page_content %}
-
+<h1 class="center">Product List</h1>
+    {% if product_list %}
+        <div class="container">
+        <table class="table table-striped product-list">
+            <tr>
+                <th class="center">Quick Books Number</th>
+                <th>Part Name</th>
+            </tr>
+            {% for product in product_list %}
+                <tr>
+                    <td class="center"><a href="{% url 'jobs:product_detail' product.qb_number %}">{{ product.qb_number }}</a></td>
+                    <td>{{ product.part_name }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        </div>
+    {% else %}
+        <p>No Products available</p>
+    {% endif %}
 {% endblock %}
