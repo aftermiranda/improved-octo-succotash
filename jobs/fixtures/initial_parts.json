@@ -1,0 +1,4124 @@
+[
+  {
+    "model": "jobs.product",
+    "pk": 0,
+    "fields": {
+      "qb_number": "87027",
+      "eng_number": "87027",
+      "part_name": "COMPONENT WASHER (mislabelled at 87029)",
+      "part_length": 0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 1,
+    "fields": {
+      "qb_number":"94001",
+      "eng_number":"94001",
+      "part_name":"TITAN CHASSIS ELECTRONICS - BLACK",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 2,
+    "fields": {
+      "qb_number":"94002",
+      "eng_number":"94002",
+      "part_name":"TITAN LID ELECTRONICS - BLACK&RED",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 3,
+    "fields": {
+      "qb_number":"94003",
+      "eng_number":"94003",
+      "part_name":"TITAN DAM STOP - BLACK",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 4,
+    "fields": {
+      "qb_number":"94008",
+      "eng_number":"94008",
+      "part_name":"TITAN ROTC NUT SEAT",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 5,
+    "fields": {
+      "qb_number":"94013",
+      "eng_number":"94013",
+      "part_name":"TITAN SLOTTED SPACER",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 6,
+    "fields": {
+      "qb_number":"94017",
+      "eng_number":"94017",
+      "part_name":"ADAPTER MALE ROTC",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 7,
+    "fields": {
+      "qb_number":"94018",
+      "eng_number":"94018",
+      "part_name":"ADAPTER FEMALE ROTC",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 8,
+    "fields": {
+      "qb_number":"94020",
+      "eng_number":"94020",
+      "part_name":"TITAN POWER FILTER CHASSIS - RED",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 9,
+    "fields": {
+      "qb_number":"94022",
+      "eng_number":"94022",
+      "part_name":"TITAN ADAPTER FEMALE ROTC HD",
+      "part_length":7.375
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 10,
+    "fields": {
+      "qb_number":"94023",
+      "eng_number":"94023",
+      "part_name":"TITAN PRESSURE HOUSING ELECTRONICS",
+      "part_length":0.0  }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 11,
+    "fields": {
+      "qb_number":"94024",
+      "eng_number":"94024",
+      "part_name":"TITAN PRESSURE HOUSING FILTER ",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 12,
+    "fields": {
+      "qb_number":"0-100-3-03",
+      "eng_number":"0-100-3-03",
+      "part_name":"FLUX GATE BOX",
+      "part_length":1.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 13,
+    "fields": {
+      "qb_number":"0-100-3-04",
+      "eng_number":"0-100-3-04",
+      "part_name":"GRUB SLEEVE - Z ACEL SENSOR PACK",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 14,
+    "fields": {
+      "qb_number":"0-100-3-06",
+      "eng_number":"0-100-3-06",
+      "part_name":"CHASSIS SENSOR PACK Ref 10-00609",
+      "part_length":17.75
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 15,
+    "fields": {
+      "qb_number":"0-100-3-07",
+      "eng_number":"0-100-3-07",
+      "part_name":"ALIGNMENT PIN MALE SENSOR PACK AND MDM STRONG BACKS",
+      "part_length":0.375
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 16,
+    "fields": {
+      "qb_number":"0-100-3-08",
+      "eng_number":"0-100-3-08",
+      "part_name":"ALIGNMENT BUSHING FEMALE SENSOR PACK AND MDM STRONG BACKS",
+      "part_length":0.375
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 17,
+    "fields": {
+      "qb_number":"0-100-3-10",
+      "eng_number":"0-100-3-10",
+      "part_name":"TENSION PLATE - SENSOR PACK STRONGBACK UPHOLE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 18,
+    "fields": {
+      "qb_number":"0-100-3-17",
+      "eng_number":"0-100-3-17",
+      "part_name":"SM CHASSIS ASP SENSOR PACK",
+      "part_length":14.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 19,
+    "fields": {
+      "qb_number":"0-100-3-21",
+      "eng_number":"0-100-3-21",
+      "part_name":"DH-HEAD 15S SM SENSOR SNUBBER SIDE",
+      "part_length":6.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 20,
+    "fields": {
+      "qb_number":"0-100-3-22",
+      "eng_number":"0-100-3-22",
+      "part_name":"UH-HEAD 21P SM SENSOR MPU SIDE",
+      "part_length":6.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 21,
+    "fields": {
+      "qb_number":"0-100-3-26",
+      "eng_number":"0-100-3-26",
+      "part_name":"TEFLON SM PLUG MAG SUPPORT",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 22,
+    "fields": {
+      "qb_number":"0-100-3-27",
+      "eng_number":"0-100-3-27",
+      "part_name":"END PLATE MAG ORIENTATION",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 23,
+    "fields": {
+      "qb_number":"0-112-3-01",
+      "eng_number":"0-112-3-01",
+      "part_name":"SCREEN HOUSING 2BIT",
+      "part_length":6.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 24,
+    "fields": {
+      "qb_number":"0-112-3-02",
+      "eng_number":"0-112-3-02",
+      "part_name":"LINEAR ACTUATOR HOUSING 2BIT",
+      "part_length":9.95
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 25,
+    "fields": {
+      "qb_number":"0-112-3-03",
+      "eng_number":"0-112-3-03",
+      "part_name":"DH Piston 1 - Flexi",
+      "part_length":0.85
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 26,
+    "fields": {
+      "qb_number":"0-112-3-04",
+      "eng_number":"0-112-3-04",
+      "part_name":"UH Piston 2 - Flexi",
+      "part_length":0.675
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 27,
+    "fields": {
+      "qb_number":"0-112-3-06",
+      "eng_number":"0-112-3-06",
+      "part_name":"MOTOR HOUSING 2BIT",
+      "part_length":6.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 28,
+    "fields": {
+      "qb_number":"0-112-3-07",
+      "eng_number":"0-112-3-07",
+      "part_name":"MOTOR STATOR HOUSING RES PULSER",
+      "part_length":3.419
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 29,
+    "fields": {
+      "qb_number":"0-112-3-08",
+      "eng_number":"0-112-3-08",
+      "part_name":"ROT TO LINEAR MOTION HOUSING",
+      "part_length":5.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 30,
+    "fields": {
+      "qb_number":"0-112-3-13",
+      "eng_number":"0-112-3-13",
+      "part_name":"M-LEMO Plate Rot Sec",
+      "part_length":0.241
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 31,
+    "fields": {
+      "qb_number":"0-112-3-14",
+      "eng_number":"0-112-3-14",
+      "part_name":"HOUSING WET-TO-DRY ROTARY CONNECTOR 2BIT",
+      "part_length":4.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 32,
+    "fields": {
+      "qb_number":"0-112-3-21",
+      "eng_number":"0-112-3-21",
+      "part_name":"REAR CONE - MOTOR",
+      "part_length":0.652
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 33,
+    "fields": {
+      "qb_number":"0-112-3-23",
+      "eng_number":"0-112-3-23",
+      "part_name":"BEARING ALIGNMENT SUPPORT",
+      "part_length":0.35
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 34,
+    "fields": {
+      "qb_number":"0-117-3-01",
+      "eng_number":"0-117-3-01",
+      "part_name":"TUBE - XGAMMA",
+      "part_length":13.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 35,
+    "fields": {
+      "qb_number":"0-117-3-06",
+      "eng_number":"0-117-3-06",
+      "part_name":"CLAMPING WASHER DH - XGAMMA",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 36,
+    "fields": {
+      "qb_number":"0-117-3-07",
+      "eng_number":"0-117-3-07",
+      "part_name":"SPACER XGAMMA",
+      "part_length":0.86
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 37,
+    "fields": {
+      "qb_number":"0-117-3-12",
+      "eng_number":"0-117-3-12",
+      "part_name":"UH M-HEAD -Ti",
+      "part_length":1.35
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 38,
+    "fields": {
+      "qb_number":"0-117-3-13",
+      "eng_number":"0-117-3-13",
+      "part_name":"DH F-HEAD -Ti",
+      "part_length":2.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 39,
+    "fields": {
+      "qb_number":"0-117-3-15",
+      "eng_number":"0-117-3-15",
+      "part_name":"CLAMPING WASHER UH - XGAMMA",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 40,
+    "fields": {
+      "qb_number":"0-118-3-03",
+      "eng_number":"0-118-3-03",
+      "part_name":"CALIBRATION TOOLS - HANDLE EXTENSION FOR QCD SENSOR PACK",
+      "part_length":12.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 41,
+    "fields": {
+      "qb_number":"0-118-3-05",
+      "eng_number":"0-118-3-05",
+      "part_name":"FEET FOR CALIBRATION STAND",
+      "part_length":1.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 42,
+    "fields": {
+      "qb_number":"0-118-3-07",
+      "eng_number":"0-118-3-07",
+      "part_name":"CALIBRATION TOOLS - ROLL CLOCKING FACE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 43,
+    "fields": {
+      "qb_number":"0-118-4-40",
+      "eng_number":"0-118-4-40",
+      "part_name":"3\/8 x 1 7\/8 PINS FOR CLOCKING FACE",
+      "part_length":1.875
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 44,
+    "fields": {
+      "qb_number":"0-119-3-13",
+      "eng_number":"0-119-3-13",
+      "part_name":"SLEEVE CAST OR N50 or 718",
+      "part_length":2.475
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 45,
+    "fields": {
+      "qb_number":"0-119-3-23",
+      "eng_number":"0-119-3-23",
+      "part_name":"MULE SHOE KEY",
+      "part_length":0.8
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 46,
+    "fields": {
+      "qb_number":"0-121-3-01",
+      "eng_number":"0-121-3-01",
+      "part_name":"CBG GAMMA HEAD",
+      "part_length":1.7
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 47,
+    "fields": {
+      "qb_number":"0-121-3-05",
+      "eng_number":"0-121-3-05",
+      "part_name":"CROSSOVER TUBE REG PMT TO CBG RUGADIZED PMT",
+      "part_length":5.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 48,
+    "fields": {
+      "qb_number":"0-126-3-03",
+      "eng_number":"0-126-3-03",
+      "part_name":"FIN - CENTRALIZER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 49,
+    "fields": {
+      "qb_number":"0-126-3-04",
+      "eng_number":"0-126-3-04",
+      "part_name":"SPEAR POINT DUMMY CENTRALIZER",
+      "part_length":18.928
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 50,
+    "fields": {
+      "qb_number":"0-126-3-05",
+      "eng_number":"0-126-3-05",
+      "part_name":"THREAD PROTECTOR - CENTRALIZER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 51,
+    "fields": {
+      "qb_number":"0-126-3-08",
+      "eng_number":"0-126-3-08",
+      "part_name":"INTERMODULE END BAT",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 52,
+    "fields": {
+      "qb_number":"0-126-3-10",
+      "eng_number":"0-126-3-10",
+      "part_name":"KINTEC CLAMSHELL",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 53,
+    "fields": {
+      "qb_number":"0-126-3-11",
+      "eng_number":"0-126-3-11",
+      "part_name":"BATTERY VENT PLUG",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 54,
+    "fields": {
+      "qb_number":"0-126-3-12",
+      "eng_number":"0-126-3-12",
+      "part_name":"HALF RING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 55,
+    "fields": {
+      "qb_number":"0-126-3-14",
+      "eng_number":"0-126-3-14",
+      "part_name":"SLEEVE\/PLUG FOR ROTARY CONN OVERMOLDED FIN",
+      "part_length":2.55
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 56,
+    "fields": {
+      "qb_number":"0-134-3-15",
+      "eng_number":"0-134-3-15",
+      "part_name":"FEMALE PURGE HOUSING - ROT CON",
+      "part_length":7.048
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 57,
+    "fields": {
+      "qb_number":"0-134-3-21",
+      "eng_number":"0-134-3-21",
+      "part_name":"KEYED BULKHEAD MOTOR ROT",
+      "part_length":0.82
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 58,
+    "fields": {
+      "qb_number":"0-134-3-24",
+      "eng_number":"0-134-3-24",
+      "part_name":"ROTARY DUMMY SWITCH",
+      "part_length":19.07
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 59,
+    "fields": {
+      "qb_number":"0-134-3-27",
+      "eng_number":"0-134-3-27",
+      "part_name":"MDM HOUSING - UH",
+      "part_length":1.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 60,
+    "fields": {
+      "qb_number":"0-134-4-01",
+      "eng_number":"0-134-4-01",
+      "part_name":"FIN OVERMOLD SUPPORT",
+      "part_length":3.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 61,
+    "fields": {
+      "qb_number":"0-135-3-01",
+      "eng_number":"33-71-0134-P1",
+      "part_name":"MODULARIZED MALE CONNECTOR",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 62,
+    "fields": {
+      "qb_number":"0-135-3-02",
+      "eng_number":"33-71-0135-P0",
+      "part_name":"MODULARIZED CCL FEMALE CONNECTOR",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 63,
+    "fields": {
+      "qb_number":"0-135-3-03",
+      "eng_number":"33-71-0137-P0",
+      "part_name":"3-reed TPS sub pressure port SS17-5 plug",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 64,
+    "fields": {
+      "qb_number":"0-14-3-36",
+      "eng_number":"0-14-3-36",
+      "part_name":"HEX SPLIT PISTON - TOP",
+      "part_length":0.777
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 65,
+    "fields": {
+      "qb_number":"0-14-3-37",
+      "eng_number":"0-14-3-37",
+      "part_name":"HEX SPLIT PISTON - BTM",
+      "part_length":0.45
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 66,
+    "fields": {
+      "qb_number":"0-14-3-38",
+      "eng_number":"0-14-3-38",
+      "part_name":"HEX SPLIT PISTON - FLANGE",
+      "part_length":0.2
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 67,
+    "fields": {
+      "qb_number":"0-14-4-09",
+      "eng_number":"0-14-4-09",
+      "part_name":"HEX PLIT PISTON - CARBON TEFLON GUIDE",
+      "part_length":0.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 68,
+    "fields": {
+      "qb_number":"0-20-3-02",
+      "eng_number":"0-20-3-02",
+      "part_name":"Sliding Seal Cap SRT 20",
+      "part_length":7.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 69,
+    "fields": {
+      "qb_number":"0-20-3-03",
+      "eng_number":"0-20-3-03",
+      "part_name":"BOTTOM STOPPER - REGULAR SRT20",
+      "part_length":3.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 70,
+    "fields": {
+      "qb_number":"0-20-3-05",
+      "eng_number":"0-20-3-05",
+      "part_name":"USING TOP COUPLER FROM SRT5 CANCELLING ARCHIVED.",
+      "part_length":4.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 71,
+    "fields": {
+      "qb_number":"0-20-4-02",
+      "eng_number":"0-20-4-02",
+      "part_name":"BORONIZED SLEEVE",
+      "part_length":1.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 72,
+    "fields": {
+      "qb_number":"0-35-3-01",
+      "eng_number":"0-35-3-01",
+      "part_name":"BLDC HOUSING 1.260\" TLX MOTOR KeyDrill",
+      "part_length":2.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 73,
+    "fields": {
+      "qb_number":"0-35-3-02",
+      "eng_number":"0-35-3-02",
+      "part_name":"Rear Bearing Flange \/ Cap KeyDrill",
+      "part_length":0.337
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 74,
+    "fields": {
+      "qb_number":"0-37-3-12",
+      "eng_number":"0-37-3-12",
+      "part_name":"BELLOWS SHAFT",
+      "part_length":3.3
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 75,
+    "fields": {
+      "qb_number":"0-37-3-24",
+      "eng_number":"0-37-3-24",
+      "part_name":"INTERCONNECT HOUSING",
+      "part_length":8.005
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 76,
+    "fields": {
+      "qb_number":"0-37-3-32",
+      "eng_number":"0-37-3-32",
+      "part_name":"SPLINE SHAFT - LINEAR SHAFT",
+      "part_length":7.59
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 77,
+    "fields": {
+      "qb_number":"0-37-3-34",
+      "eng_number":"0-37-3-34",
+      "part_name":"COUPLER BALLSCREW SIDE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 78,
+    "fields": {
+      "qb_number":"0-37-3-45",
+      "eng_number":"0-37-3-45",
+      "part_name":"FLANGED BEARING HOUSING",
+      "part_length":0.505
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 79,
+    "fields": {
+      "qb_number":"0-37-3-50",
+      "eng_number":"0-37-3-50",
+      "part_name":"SPLINED SHAFT - ROLL PIN",
+      "part_length":7.59
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 80,
+    "fields": {
+      "qb_number":"0-37-3-51",
+      "eng_number":"0-37-3-51",
+      "part_name":"BELLOWS SHAFT ROLL PIN QMT-X+",
+      "part_length":3.86
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 81,
+    "fields": {
+      "qb_number":"0-37-3-55",
+      "eng_number":"0-37-3-55",
+      "part_name":"SPLINE SHAFT 3X1 TMX+",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 82,
+    "fields": {
+      "qb_number":"0-37-3-56",
+      "eng_number":"0-37-3-56",
+      "part_name":"NSK COUPLER BALLSCREW NUT TO SPLINE SHAFT",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 83,
+    "fields": {
+      "qb_number":"0-37-3-57",
+      "eng_number":"0-37-3-57",
+      "part_name":"COUPLER SHOULDER SCREW BALLSCREW SHAFT TMX+",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 84,
+    "fields": {
+      "qb_number":"0-37-3-61",
+      "eng_number":"0-37-3-61",
+      "part_name":"FEMALE HOUSING 4 CONNECTOR HOUSING TO BULKHEAD",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 85,
+    "fields": {
+      "qb_number":"0-37-3-63",
+      "eng_number":"0-37-3-63",
+      "part_name":"BALLSCREW 10MM NSK 10X3 2.95\" LG",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 86,
+    "fields": {
+      "qb_number":"0-37-4-23",
+      "eng_number":"0-37-4-23",
+      "part_name":"MALE BULKEAD 4 PIN CONNECTOR",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 87,
+    "fields": {
+      "qb_number":"0-37-4-25",
+      "eng_number":"0-37-4-25",
+      "part_name":"MALE CONNECTOR BULKHEAD - 4PIN WIRELINE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 88,
+    "fields": {
+      "qb_number":"0-47-3-01",
+      "eng_number":"0-47-3-01",
+      "part_name":"BLDC HOUSING (Ref 10-00315)",
+      "part_length":2.9
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 89,
+    "fields": {
+      "qb_number":"0-47-3-02",
+      "eng_number":"0-47-3-02",
+      "part_name":"ROTARY HOUSING (Ref 10-00030)",
+      "part_length":2.71
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 90,
+    "fields": {
+      "qb_number":"0-47-3-04",
+      "eng_number":"0-47-3-04",
+      "part_name":"ROTARY CONNECTOR BULKHEAD (Ref 10-00364)",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 91,
+    "fields": {
+      "qb_number":"0-47-3-05",
+      "eng_number":"0-47-3-05",
+      "part_name":"ROTARY CONNECTOR - WIRELINE OR OTHER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 92,
+    "fields": {
+      "qb_number":"0-47-3-06",
+      "eng_number":"0-47-3-06",
+      "part_name":"END BELL WIRE SIDE GEN2 (Ref 10-00032)",
+      "part_length":0.3
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 93,
+    "fields": {
+      "qb_number":"0-47-3-07",
+      "eng_number":"0-47-3-07",
+      "part_name":"NITRILE GASKET - Ref(10-00259)",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 94,
+    "fields": {
+      "qb_number":"0-47-3-11",
+      "eng_number":"0-47-3-11",
+      "part_name":"n/a",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 95,
+    "fields": {
+      "qb_number":"0-47-4-03",
+      "eng_number":"0-47-4-03",
+      "part_name":"n/a",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 96,
+    "fields": {
+      "qb_number":"0-47-4-06",
+      "eng_number":"0-47-4-06",
+      "part_name":"n/a",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 97,
+    "fields": {
+      "qb_number":"0-47-4-07",
+      "eng_number":"0-47-4-07",
+      "part_name":"n/a",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 98,
+    "fields": {
+      "qb_number":"0-47-4-08",
+      "eng_number":"0-47-4-08",
+      "part_name":"n/a",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 99,
+    "fields": {
+      "qb_number":"0-59-3-01",
+      "eng_number":"0-59-3-01",
+      "part_name":"TUBE - Gamma",
+      "part_length":12.025
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 100,
+    "fields": {
+      "qb_number":"0-59-3-02",
+      "eng_number":"0-59-3-02",
+      "part_name":"n/a",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 101,
+    "fields": {
+      "qb_number":"0-59-3-03",
+      "eng_number":"0-59-3-03",
+      "part_name":"Expansion Ring - Gamma",
+      "part_length":0.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 102,
+    "fields": {
+      "qb_number":"0-59-3-05",
+      "eng_number":"0-59-3-05",
+      "part_name":"Clamping Plate - Gamma",
+      "part_length":0.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 104,
+    "fields": {
+      "qb_number":"0-59-3-14",
+      "eng_number":"0-59-3-14",
+      "part_name":"Gamma Bumper - Viton Ring",
+      "part_length":1.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 105,
+    "fields": {
+      "qb_number":"0-59-3-15",
+      "eng_number":"0-59-3-15",
+      "part_name":"Gamma Head - Titanium",
+      "part_length":1.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 106,
+    "fields": {
+      "qb_number":"0-59-3-21",
+      "eng_number":"0-59-3-21",
+      "part_name":"Tube - Gamma 12.525\" Lg",
+      "part_length":12.525
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 107,
+    "fields": {
+      "qb_number":"0-59-4-04",
+      "eng_number":"0-59-4-04",
+      "part_name":"TEF RING 1.015x0.915x0.090 thick",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 108,
+    "fields": {
+      "qb_number":"0-69-3-29",
+      "eng_number":"0-69-3-29",
+      "part_name":"D&I PIGTAIL - MDM Housing",
+      "part_length":3.025
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 109,
+    "fields": {
+      "qb_number":"0-69-3-30",
+      "eng_number":"0-69-3-30",
+      "part_name":"D&I PIGTAIL - Oring Support",
+      "part_length":0.26
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 110,
+    "fields": {
+      "qb_number":"0-73-3-01",
+      "eng_number":"0-73-3-01",
+      "part_name":"INTERMODULE END TAKTIKAL \/ DRILLERS",
+      "part_length":8.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 111,
+    "fields": {
+      "qb_number":"0-76-3-01",
+      "eng_number":"0-76-3-01",
+      "part_name":"INTERMODULE END DH GE 1\/2\" ",
+      "part_length":4.82
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 112,
+    "fields": {
+      "qb_number":"0-79-3-05",
+      "eng_number":"0-79-3-05",
+      "part_name":"SLEEVE - ORIFICE",
+      "part_length":2.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 113,
+    "fields": {
+      "qb_number":"0-79-3-10",
+      "eng_number":"0-79-3-10",
+      "part_name":"Split Piston Btm 7\/8-14UN",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 114,
+    "fields": {
+      "qb_number":"0-79-3-11",
+      "eng_number":"0-79-3-11",
+      "part_name":"Split Piston Top 7\/8-14UN",
+      "part_length":0.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 115,
+    "fields": {
+      "qb_number":"0-80-3-08",
+      "eng_number":"0-80-3-08",
+      "part_name":"Gamma Chassis - FG",
+      "part_length":5.7
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 116,
+    "fields": {
+      "qb_number":"0-80-3-09",
+      "eng_number":"0-80-3-09",
+      "part_name":"Crystal - Dummy",
+      "part_length":6.8
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 117,
+    "fields": {
+      "qb_number":"0-80-3-10",
+      "eng_number":"0-80-3-10",
+      "part_name":"M-F Coupler - FG",
+      "part_length":0.61
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 118,
+    "fields": {
+      "qb_number":"0-80-3-13",
+      "eng_number":"0-80-3-13",
+      "part_name":"Shield - FG Dummy",
+      "part_length":6.2
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 119,
+    "fields": {
+      "qb_number":"0-80-3-14",
+      "eng_number":"0-80-3-14",
+      "part_name":"Probe Housing Focussed - FG",
+      "part_length":12.025
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 120,
+    "fields": {
+      "qb_number":"0-80-3-15",
+      "eng_number":"0-80-3-15",
+      "part_name":"Housing Window - FG",
+      "part_length":4.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 121,
+    "fields": {
+      "qb_number":"0-80-3-16",
+      "eng_number":"0-80-3-16",
+      "part_name":"Gamma Compression Head - FG",
+      "part_length":1.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 122,
+    "fields": {
+      "qb_number":"0-80-3-17",
+      "eng_number":"0-80-3-17",
+      "part_name":"Expansion Ring - FG",
+      "part_length":0.187
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 123,
+    "fields": {
+      "qb_number":"0-80-3-18",
+      "eng_number":"0-80-3-18",
+      "part_name":"Clamping Plate - FG",
+      "part_length":0.185
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 124,
+    "fields": {
+      "qb_number":"0-80-3-19",
+      "eng_number":"0-80-3-19",
+      "part_name":"Tefon Ring - FG",
+      "part_length":0.06
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 125,
+    "fields": {
+      "qb_number":"0-80-3-20",
+      "eng_number":"0-80-3-20",
+      "part_name":"Bumper - FG",
+      "part_length":0.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 126,
+    "fields": {
+      "qb_number":"0-80-3-21",
+      "eng_number":"0-80-3-21",
+      "part_name":"Probe Housing Reg - FG",
+      "part_length":12.025
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 127,
+    "fields": {
+      "qb_number":"0-80-3-24",
+      "eng_number":"0-80-3-24",
+      "part_name":"AT-BIT Compression Oring Plate",
+      "part_length":0.375
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 128,
+    "fields": {
+      "qb_number":"0-80-3-25",
+      "eng_number":"0-80-3-25",
+      "part_name":"AT-BIT Compression Head Clamp Down",
+      "part_length":1.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 129,
+    "fields": {
+      "qb_number":"0-80-3-26",
+      "eng_number":"0-80-3-26",
+      "part_name":"FG TUBE - 1.380 - 12.045\"Lg s-SR@B",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 130,
+    "fields": {
+      "qb_number":"0-80-3-30",
+      "eng_number":"0-80-3-30",
+      "part_name":"Carbide Shield 0.125x6.875 s-sr@b",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 131,
+    "fields": {
+      "qb_number":"0-80-3-38",
+      "eng_number":"0-80-3-38",
+      "part_name":"Slim Gamma Compression Head - FG",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 132,
+    "fields": {
+      "qb_number":"0-80-3-39",
+      "eng_number":"0-80-3-39",
+      "part_name":"Bottom Absorber and Mold",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 133,
+    "fields": {
+      "qb_number":"0-80-3-40",
+      "eng_number":"0-80-3-40",
+      "part_name":"Potting Mold onto 6\" Slim Gamma Crystal. S-SR@B",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 134,
+    "fields": {
+      "qb_number":"0-80-4-02",
+      "eng_number":"0-80-4-02",
+      "part_name":"Slim Gamma Oring Support 317-319",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 135,
+    "fields": {
+      "qb_number":"0-84-2-01",
+      "eng_number":"0-84-2-01",
+      "part_name":"MPU CHASSIS - SUB ASSY MPU & TPS INSTALLED",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 136,
+    "fields": {
+      "qb_number":"0-84-3-15",
+      "eng_number":"0-84-3-15",
+      "part_name":"D&I Oring Support 3x216",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 137,
+    "fields": {
+      "qb_number":"0-84-3-16",
+      "eng_number":"0-84-3-16",
+      "part_name":"D&I Oring Support 2x319",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 138,
+    "fields": {
+      "qb_number":"0-84-4-01",
+      "eng_number":"0-84-4-01",
+      "part_name":"Custom Screw 0.313x24 #10-32 Double Threads",
+      "part_length":0.3
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 139,
+    "fields": {
+      "qb_number":"0-85-3-06",
+      "eng_number":"0-85-3-06",
+      "part_name":"GAMMA PRESSURE BARREL BECU",
+      "part_length":24.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 140,
+    "fields": {
+      "qb_number":"0-86-3-07",
+      "eng_number":"0-86-3-07",
+      "part_name":"BATTERY VENT PLUG",
+      "part_length":51.875
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 141,
+    "fields": {
+      "qb_number":"0-GR-3-04",
+      "eng_number":"0-GR-3-04",
+      "part_name":"HOUSING GEROTOR",
+      "part_length":2.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 142,
+    "fields": {
+      "qb_number":"0-GR-3-04+1",
+      "eng_number":"0-GR-3-04+1",
+      "part_name":"HOUSING GEROTOR+1",
+      "part_length":3.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 143,
+    "fields": {
+      "qb_number":"0-GR-3-06",
+      "eng_number":"0-GR-3-06",
+      "part_name":"ROTOR GEROTOR",
+      "part_length":1.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 144,
+    "fields": {
+      "qb_number":"0-GR-3-06+1",
+      "eng_number":"0-GR-3-06+1",
+      "part_name":"ROTOR GEROTOR+1",
+      "part_length":2.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 145,
+    "fields": {
+      "qb_number":"0-MEZ-3-01",
+      "eng_number":"0-MEZ-3-01",
+      "part_name":"ADAPTER FOR OTS ENCODER",
+      "part_length":4.375
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 146,
+    "fields": {
+      "qb_number":"0-MEZ-3-02",
+      "eng_number":"0-MEZ-3-02",
+      "part_name":"ADAPTOR 5\/8 TO 1 THREADS",
+      "part_length":1.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 147,
+    "fields": {
+      "qb_number":"01-PGP-1875-016R2",
+      "eng_number":"01-PGP-1875-016R2",
+      "part_name":"PGP LOWER SEAL",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 148,
+    "fields": {
+      "qb_number":"01-PGP-1875-024R1",
+      "eng_number":"01-PGP-1875-024R1",
+      "part_name":"PGP BACK RING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 149,
+    "fields": {
+      "qb_number":"01-PGP-1875-024R1TOOL",
+      "eng_number":"01-PGP-1875-024R1TOOL",
+      "part_name":"PGP ORING TOOL",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 150,
+    "fields": {
+      "qb_number":"03ROTC0002",
+      "eng_number":"03ROTC0002",
+      "part_name":"RETENTION SLEEVE SLB",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 151,
+    "fields": {
+      "qb_number":"10-00032",
+      "eng_number":"10-00032",
+      "part_name":"MOTOR HOUSING END BELL WIRE SIDE",
+      "part_length":1.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 152,
+    "fields": {
+      "qb_number":"10-00225",
+      "eng_number":"10-00225",
+      "part_name":"CENTRALIZER FIN 0.500\"",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 153,
+    "fields": {
+      "qb_number":"10-00251",
+      "eng_number":"10-00251",
+      "part_name":"END BELL 1.260\" MOTOR - VENDOR DUMMY",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 154,
+    "fields": {
+      "qb_number":"10-00252",
+      "eng_number":"10-00252",
+      "part_name":"MOTOR HOUSING 1.260\" FLANGED- VENDOR DUMMY",
+      "part_length":2.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 155,
+    "fields": {
+      "qb_number":"10-00295",
+      "eng_number":"10-00295",
+      "part_name":"ROTARY CONNECTOR HOUSING - TLX NEWSCO",
+      "part_length":7.1
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 156,
+    "fields": {
+      "qb_number":"10-00307",
+      "eng_number":"10-00307",
+      "part_name":"SCREEN HOUSING - TLX NEWSCO",
+      "part_length":9.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 157,
+    "fields": {
+      "qb_number":"10-00315",
+      "eng_number":"10-00315",
+      "part_name":"MOTOR HOUSING FRONT FLANGE SIDE NEWSCO TLX GEN2",
+      "part_length":2.9
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 158,
+    "fields": {
+      "qb_number":"10-00403",
+      "eng_number":"10-00403",
+      "part_name":"GAMMA SENSOR HOUSING",
+      "part_length":13.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 159,
+    "fields": {
+      "qb_number":"10-00521",
+      "eng_number":"10-00521",
+      "part_name":"QCD GAMMA - PMTBOARD CHASSIS",
+      "part_length":7.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 160,
+    "fields": {
+      "qb_number":"10-00522",
+      "eng_number":"10-00522",
+      "part_name":"QCD GAMMA - THREAD CROSS OVER PMT TO CRYSTAL",
+      "part_length":1.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 161,
+    "fields": {
+      "qb_number":"10-00525",
+      "eng_number":"10-00525",
+      "part_name":"BDI  SUSPENSION CLIP - LEFT",
+      "part_length":8.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 162,
+    "fields": {
+      "qb_number":"10-00526",
+      "eng_number":"10-00526",
+      "part_name":"BDI  SUSPENSION CLIP - RIGHT",
+      "part_length":8.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 163,
+    "fields": {
+      "qb_number":"10-00596",
+      "eng_number":"10-00596",
+      "part_name":"SRT SPRING ASSY - INNER WALL RING",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 164,
+    "fields": {
+      "qb_number":"10-00597",
+      "eng_number":"10-00597",
+      "part_name":"SRT SPRING ASSY - OUTER WALL RING",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 165,
+    "fields": {
+      "qb_number":"10-00598",
+      "eng_number":"10-00598",
+      "part_name":"SRT SPRING ASSY - RUBBER RING",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 166,
+    "fields": {
+      "qb_number":"10-00600",
+      "eng_number":"10-00600",
+      "part_name":"PMT TUBE CAP",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 167,
+    "fields": {
+      "qb_number":"11-07-600573B",
+      "eng_number":"11-07-600573B",
+      "part_name":"VENDOR TEFLON - COMPRESSION HOUSING THREAD PROTECTOR",
+      "part_length":4.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 168,
+    "fields": {
+      "qb_number":"11-07-600581C",
+      "eng_number":"11-07-600581C",
+      "part_name":"VENDOR TEFLON - PIN HOUSING THREAD PROTECTOR",
+      "part_length":4.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 169,
+    "fields": {
+      "qb_number":"303-334-03",
+      "eng_number":"303-334-03",
+      "part_name":"SLEEVE X-OVER SUB 1 3\/4\" EM\/MWD UTILITIES",
+      "part_length":5.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 170,
+    "fields": {
+      "qb_number":"33-27-1568-PO",
+      "eng_number":"33-27-1568-PO",
+      "part_name":"PPS 27 CABLE SANDING TOOL 1.250D HOUSING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 171,
+    "fields": {
+      "qb_number":"33-27-2569-PO",
+      "eng_number":"33-27-2569-PO",
+      "part_name":"PPS 27 CABLE SANDING TOOL BOTTOM BASE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 172,
+    "fields": {
+      "qb_number":"33-27-2570-PO",
+      "eng_number":"33-27-2570-PO",
+      "part_name":"PPS 27 CABLE SANDING TOOL HALF COLLAR",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 173,
+    "fields": {
+      "qb_number":"33-71-0136-P1",
+      "eng_number":"33-71-0136-P1",
+      "part_name":"3-reed TPS sub pressure port SS17-4 block with O-ring",
+      "part_length":0.72
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 174,
+    "fields": {
+      "qb_number":"33-71-1527-P0",
+      "eng_number":"33-71-1527-P0",
+      "part_name":"3-reed TPS sub SS17-4 calibration adapter",
+      "part_length":0.59
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 175,
+    "fields": {
+      "qb_number":"33-FS-01-A2",
+      "eng_number":"33-FS-01-A2",
+      "part_name":"MWD FISHING NECK.",
+      "part_length":9.7
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 176,
+    "fields": {
+      "qb_number":"33-FS-02-PO",
+      "eng_number":"33-FS-02-PO",
+      "part_name":"FISHING INTERCONNECT SHAFT",
+      "part_length":10.12
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 177,
+    "fields": {
+      "qb_number":"A-MDPN011006",
+      "eng_number":"0-47-4-02",
+      "part_name":"INTERNAL RETAINING RING 1\/2\" BORE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 178,
+    "fields": {
+      "qb_number":"A-MDPN11003",
+      "eng_number":"0-47-4-02",
+      "part_name":"INTERNAL RETAINING RING 1\/2\" BORE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 179,
+    "fields": {
+      "qb_number":"A-MDPN11005",
+      "eng_number":"0-37-4-04",
+      "part_name":"DRIVER BELLOWS",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 180,
+    "fields": {
+      "qb_number":"A-MDPN11007",
+      "eng_number":"0-37-3-10",
+      "part_name":"COMPENSATION HOUSING",
+      "part_length":8.6
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 181,
+    "fields": {
+      "qb_number":"A-MDPN11011",
+      "eng_number":"0-37-3-04",
+      "part_name":"BALL SCREW HOUSING - LINEAR SHAFT HOUSING",
+      "part_length":6.43
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 182,
+    "fields": {
+      "qb_number":"A-MDPN11026",
+      "eng_number":"0-37-3-31",
+      "part_name":"CIRCUIT SLEEVE - HOUSING",
+      "part_length":21.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 183,
+    "fields": {
+      "qb_number":"A-MDPN11027",
+      "eng_number":"0-37-3-31",
+      "part_name":"CIRCUIT SLEEVE - HOUSING 21\" FOR....",
+      "part_length":21.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 184,
+    "fields": {
+      "qb_number":"ASCN0007",
+      "eng_number":"10-00239",
+      "part_name":"7.857\" CHASSIS - Pulser Cap Bank",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 185,
+    "fields": {
+      "qb_number":"ASCN0008",
+      "eng_number":"0-47-3-08",
+      "part_name":"STATOR. DUMMY STATOR MODEL",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 186,
+    "fields": {
+      "qb_number":"ASCN0090",
+      "eng_number":"0-47-3-03",
+      "part_name":"MOTOR SPACER WIRE CHANNEL",
+      "part_length":1.65
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 187,
+    "fields": {
+      "qb_number":"ASCN0091",
+      "eng_number":"10-00300",
+      "part_name":"MOTOR SPACER WIRE CHANNEL",
+      "part_length":3.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 188,
+    "fields": {
+      "qb_number":"ASCN0142",
+      "eng_number":"10-00233",
+      "part_name":"STT 4.5\" Chassis - Molded PCBA",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 189,
+    "fields": {
+      "qb_number":"ASCN0155",
+      "eng_number":"0-14-3-07",
+      "part_name":"MCB - STINGER COLLAR LOCK",
+      "part_length":0.484
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 190,
+    "fields": {
+      "qb_number":"ASCN0162",
+      "eng_number":"10-00306",
+      "part_name":"COMPENSATION ASSEMBLY - TC. (CUST NUM)",
+      "part_length":1.45
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 191,
+    "fields": {
+      "qb_number":"ASCN0193",
+      "eng_number":"0-69-3-12",
+      "part_name":"Strain Relief Pigtail",
+      "part_length":1.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 192,
+    "fields": {
+      "qb_number":"ASCN0194",
+      "eng_number":"0-69-3-20",
+      "part_name":"Strain Relief Plate",
+      "part_length":0.375
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 193,
+    "fields": {
+      "qb_number":"BATN0006",
+      "eng_number":"0-126-4-01",
+      "part_name":"WIRING HARNESS REGULAR",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 194,
+    "fields": {
+      "qb_number":"BATN0011",
+      "eng_number":"0-134-3-11",
+      "part_name":"MALE UH BULKHEAD - BAT CUSTOM WITH NO VENT PLUG",
+      "part_length":7.35
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 195,
+    "fields": {
+      "qb_number":"CNTN0003",
+      "eng_number":"0-76-3-07",
+      "part_name":"SPLIT RING",
+      "part_length":0.45
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 196,
+    "fields": {
+      "qb_number":"CNTN0013",
+      "eng_number":"0-126-2-01",
+      "part_name":"OVERMOLDED FIN HARD FIN CENTRALIZER 2 11\/16 2 13\/16",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 197,
+    "fields": {
+      "qb_number":"CNTN0014",
+      "eng_number":"0-126-3-02",
+      "part_name":"THREADED RING - CENTRALIZER",
+      "part_length":2.85
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 198,
+    "fields": {
+      "qb_number":"CNTN0017",
+      "eng_number":"0-126-3-01",
+      "part_name":"CENTRALIZER BULKHEAD",
+      "part_length":13.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 199,
+    "fields": {
+      "qb_number":"CNTN0024",
+      "eng_number":"0-134-3-06",
+      "part_name":"M ROT BULKHEAD",
+      "part_length":3.137
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 200,
+    "fields": {
+      "qb_number":"CNTN0025",
+      "eng_number":"0-134-3-07",
+      "part_name":"SPLIT SHELL",
+      "part_length":1.648
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 201,
+    "fields": {
+      "qb_number":"CNTN0026",
+      "eng_number":"0-134-3-10",
+      "part_name":"MALE UH BULKHEAD - REG",
+      "part_length":7.35
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 202,
+    "fields": {
+      "qb_number":"CNTN0027",
+      "eng_number":"0-134-3-05",
+      "part_name":"CONNECTOR SLEEVE",
+      "part_length":7.922
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 203,
+    "fields": {
+      "qb_number":"CNTN0028",
+      "eng_number":"0-134-3-11",
+      "part_name":"MALE UH BULKHEAD - BAT",
+      "part_length":7.35
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 204,
+    "fields": {
+      "qb_number":"CNTN0029",
+      "eng_number":"0-134-3-12",
+      "part_name":"MALE UH BULKHEAD - GAMMA",
+      "part_length":7.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 205,
+    "fields": {
+      "qb_number":"CNTN0031",
+      "eng_number":"0-134-2-01",
+      "part_name":"Slide on fin 3.25",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 206,
+    "fields": {
+      "qb_number":"CNTN0104",
+      "eng_number":"0-134-3-14",
+      "part_name":"FEMALE DH BULKHEAD - SLEEVED FIN",
+      "part_length":11.131
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 207,
+    "fields": {
+      "qb_number":"DCPN0005",
+      "eng_number":"0-86-3-05",
+      "part_name":"BATTERY PRESSURE BARREL",
+      "part_length":24.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 208,
+    "fields": {
+      "qb_number":"DCPN0009",
+      "eng_number":"0-126-3-09",
+      "part_name":"KINTEC BULKHEAD - 90DEG",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 209,
+    "fields": {
+      "qb_number":"DCPN0014",
+      "eng_number":"0-126-3-07",
+      "part_name":"INTERCONNECT HOUSING",
+      "part_length":5.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 210,
+    "fields": {
+      "qb_number":"DCPN0017",
+      "eng_number":"0-126-3-06",
+      "part_name":"BULKHEAD - INTERCONNECT - TOP OF MODULE",
+      "part_length":5.9
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 211,
+    "fields": {
+      "qb_number":"DCPN0041",
+      "eng_number":"0-69-1-01",
+      "part_name":"SNUBBER SHOCK GAMMA BAT PULSER THREE PIECE",
+      "part_length":4.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 212,
+    "fields": {
+      "qb_number":"DCPN0043",
+      "eng_number":"0-69-3-09",
+      "part_name":"FRONT 3 pcs Snubber",
+      "part_length":1.6
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 213,
+    "fields": {
+      "qb_number":"DCPN0044",
+      "eng_number":"0-69-3-01",
+      "part_name":"STEM Universal Snubber Shock",
+      "part_length":2.05
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 214,
+    "fields": {
+      "qb_number":"DCPN0046",
+      "eng_number":"0-69-3-10",
+      "part_name":"Back 3 pcs Snubber",
+      "part_length":2.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 215,
+    "fields": {
+      "qb_number":"DCPN0047",
+      "eng_number":"0-126-3-10",
+      "part_name":"KINTEC SUPPORT (CLAM SHELL)",
+      "part_length":1.185
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 216,
+    "fields": {
+      "qb_number":"DCPN0048",
+      "eng_number":"10-00197",
+      "part_name":"END CAP FEMALE MODULE AL",
+      "part_length":2.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 217,
+    "fields": {
+      "qb_number":"DCPN0049",
+      "eng_number":"0-37-3-01",
+      "part_name":"MALE THREAD PROTECTOR",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 219,
+    "fields": {
+      "qb_number":"DCPN0050 ",
+      "eng_number":"10-00198",
+      "part_name":"END CAP MALE MODULE BeCU",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 220,
+    "fields": {
+      "qb_number":"DCPN0051",
+      "eng_number":"10-00198",
+      "part_name":"END CAP MALE MODULE PLASTIC",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 221,
+    "fields": {
+      "qb_number":"DCPN0093 ",
+      "eng_number":"10-00197",
+      "part_name":"END CAP FEMALE MODULE RUBBER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 222,
+    "fields": {
+      "qb_number":"DCPN0106",
+      "eng_number":"10-00197",
+      "part_name":"END CAP FEMALE MODULE PLASTIC",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 223,
+    "fields": {
+      "qb_number":"DCPN0107 ",
+      "eng_number":"10-00198",
+      "part_name":"END CAP MALE MODULE RUBBER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 224,
+    "fields": {
+      "qb_number":"DCPN0109",
+      "eng_number":"0-84-3-07",
+      "part_name":"PRESSURE BARREL - D&I",
+      "part_length":62.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 225,
+    "fields": {
+      "qb_number":"DCPN0127",
+      "eng_number":"0-86-3-05",
+      "part_name":"BATTERY PRESSURE BARREL N50",
+      "part_length":51.875
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 226,
+    "fields": {
+      "qb_number":"DCPN0128",
+      "eng_number":"0-84-3-07",
+      "part_name":"PRESSURE BARREL - D&I N50",
+      "part_length":62.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 227,
+    "fields": {
+      "qb_number":"DCPN0129",
+      "eng_number":"0-85-3-06",
+      "part_name":"GAMMA PRESSURE BARREL N50",
+      "part_length":24.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 228,
+    "fields": {
+      "qb_number":"DCPN0130",
+      "eng_number":"0-125-3-33",
+      "part_name":"NC61 FIN CUTTER",
+      "part_length":9.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 229,
+    "fields": {
+      "qb_number":"DCPN0131",
+      "eng_number":"0-125-3-32",
+      "part_name":"NC50 FIN CUTTER",
+      "part_length":9.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 230,
+    "fields": {
+      "qb_number":"DCPN0132",
+      "eng_number":"0-125-3-31",
+      "part_name":"NC38 FIN CUTTER",
+      "part_length":9.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 231,
+    "fields": {
+      "qb_number":"DCPN0133",
+      "eng_number":"0-77-3-03",
+      "part_name":"57.25\" Optimax Battery Barrel N50 (005-0001-11N)",
+      "part_length":57.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 232,
+    "fields": {
+      "qb_number":"DCPN0134",
+      "eng_number":"0-77-3-05",
+      "part_name":"30.375\" Optimax Dipole Barrel N50 (005-0001-13N)",
+      "part_length":30.375
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 233,
+    "fields": {
+      "qb_number":"DCPN0135",
+      "eng_number":"0-77-3-01",
+      "part_name":"0.6125\" OAL Optimax Spanner Wrench Spacer Ring N50 (005-1071-01N)",
+      "part_length":0.6125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 234,
+    "fields": {
+      "qb_number":"DMDN0009",
+      "eng_number":"0-126-4-02",
+      "part_name":"WIRING HARNESS ELECTRONICS",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 235,
+    "fields": {
+      "qb_number":"DMDN0010",
+      "eng_number":"0-69-3-08",
+      "part_name":"PIGTAIL TRANSORB 6PIN ASSEMBLY ? NO STRONGBACK 15S MDM AND 6PIN KINTEC",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 236,
+    "fields": {
+      "qb_number":"DMDN0015",
+      "eng_number":"0-69-1-02",
+      "part_name":"SNUBBER SHOCK D&I THREE PIECE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 237,
+    "fields": {
+      "qb_number":"DMDS0029",
+      "eng_number":"0-84-3-05",
+      "part_name":"MPU CHASSIS - QCD",
+      "part_length":21.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 238,
+    "fields": {
+      "qb_number":"DN-1-005A",
+      "eng_number":"DN-1-005A",
+      "part_name":"DM MDM BASE",
+      "part_length":1.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 239,
+    "fields": {
+      "qb_number":"GMDN0005",
+      "eng_number":"0-126-3-06",
+      "part_name":"BULKHEAD - INTERCONNECT - TOP OF MODULE N50",
+      "part_length":5.9
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 241,
+    "fields": {
+      "qb_number":"LABN0015",
+      "eng_number":"10-00413",
+      "part_name":"OIL FILL ADAPTER - SRT",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 242,
+    "fields": {
+      "qb_number":"LABN0023",
+      "eng_number":"0-37-4-11",
+      "part_name":"Oil Fill Adapter - Pulser",
+      "part_length":3.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 243,
+    "fields": {
+      "qb_number":"MDPN0004",
+      "eng_number":"10-00275",
+      "part_name":"INTERMODULE END BALLSCREW NEWSCO",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 244,
+    "fields": {
+      "qb_number":"MDPN0005",
+      "eng_number":"10-00283",
+      "part_name":"COUPLER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 245,
+    "fields": {
+      "qb_number":"MDPN0006",
+      "eng_number":"10-00356",
+      "part_name":"FLANGE BEARING HOUSING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 246,
+    "fields": {
+      "qb_number":"MDPN0007",
+      "eng_number":"0-37-3-37",
+      "part_name":"BALL SCREW NUT HOUSING 6X1",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 247,
+    "fields": {
+      "qb_number":"MDPN0008",
+      "eng_number":"10-00354",
+      "part_name":"COUPLER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 248,
+    "fields": {
+      "qb_number":"MDPN0010",
+      "eng_number":"10-00279",
+      "part_name":"BALLSCREW SPLINE SHAFT",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 249,
+    "fields": {
+      "qb_number":"MDPN0011",
+      "eng_number":"0-37-3-35",
+      "part_name":"LOCK COLLAR BALLSCREW SHAFT 6x1",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 250,
+    "fields": {
+      "qb_number":"MDPN0012",
+      "eng_number":"10-00353",
+      "part_name":"MOTOR COUPLER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 251,
+    "fields": {
+      "qb_number":"MDPN0015",
+      "eng_number":"0-37-3-15",
+      "part_name":"FLANGE - MOTOR FLANGE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 252,
+    "fields": {
+      "qb_number":"MDPN0023",
+      "eng_number":"0-37-3-06",
+      "part_name":"LOWER FLEXI SEAL HOUSING",
+      "part_length":0.453
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 253,
+    "fields": {
+      "qb_number":"MDPN0024",
+      "eng_number":"0-37-3-08",
+      "part_name":"UPPER FLEXI SEAL HOUSING",
+      "part_length":1.746
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 254,
+    "fields": {
+      "qb_number":"MDPN0026",
+      "eng_number":"0-37-3-17",
+      "part_name":"2PCS MOTOR COLLAR UPPER",
+      "part_length":0.806
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 256,
+    "fields": {
+      "qb_number":"MDPN0027",
+      "eng_number":"0-37-3-16",
+      "part_name":"2PCS MOTOR COLLAR LOWER",
+      "part_length":1.03
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 257,
+    "fields": {
+      "qb_number":"MDPN0028",
+      "eng_number":"10-00273",
+      "part_name":"COMPENSATION COLLAR FEMALE NEWSCO",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 258,
+    "fields": {
+      "qb_number":"MDPN0030",
+      "eng_number":"0-37-3-11",
+      "part_name":"MEMBRANE SUPPORT",
+      "part_length":5.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 259,
+    "fields": {
+      "qb_number":"MDPN0033",
+      "eng_number":"0-37-4-03",
+      "part_name":"CRIMP RING",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 260,
+    "fields": {
+      "qb_number":"MDPN0035",
+      "eng_number":"0-37-3-05",
+      "part_name":"DRIVER SCREEN - SCREEN HOUSING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 261,
+    "fields": {
+      "qb_number":"MDPN0037",
+      "eng_number":"0-47-3-10",
+      "part_name":"COUPLER - MOTOR SIDE (Ref 3PD20C-C)",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 262,
+    "fields": {
+      "qb_number":"MDPN0038",
+      "eng_number":"0-37-3-21",
+      "part_name":"MOTOR SLEEVE",
+      "part_length":9.08
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 263,
+    "fields": {
+      "qb_number":"MDPN0039",
+      "eng_number":"0-37-3-23",
+      "part_name":"Pulser Oil Fill Plug",
+      "part_length":0.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 264,
+    "fields": {
+      "qb_number":"MDPN0042",
+      "eng_number":"0-37-3-03",
+      "part_name":"SERVO ORIFICE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 265,
+    "fields": {
+      "qb_number":"MDPN0044",
+      "eng_number":"0-37-3-13",
+      "part_name":"POPPET TIP - TLX",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 267,
+    "fields": {
+      "qb_number":"MDPN0045",
+      "eng_number":"0-37-3-09",
+      "part_name":"SPLINE NUT",
+      "part_length":0.982
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 268,
+    "fields": {
+      "qb_number":"MDPN0050",
+      "eng_number":"10-00254",
+      "part_name":"MOTOR END BELL WIRE SIDE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 269,
+    "fields": {
+      "qb_number":"MDPN0052",
+      "eng_number":"0-47-4-01",
+      "part_name":"INTERNAL RETAINING RING 1\/2\" BORE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 270,
+    "fields": {
+      "qb_number":"MDPN0055",
+      "eng_number":"0-47-4-04",
+      "part_name":"WAVE WASHER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 271,
+    "fields": {
+      "qb_number":"MDPN0056",
+      "eng_number":"10-00029",
+      "part_name":"MOTOR HOUSING BODY FLANGED END",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 272,
+    "fields": {
+      "qb_number":"MDPN0058",
+      "eng_number":"10-00030",
+      "part_name":"MOTOR HOUSING BODY CASTELATED END",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 273,
+    "fields": {
+      "qb_number":"MDPN0060",
+      "eng_number":"0-37-3-26",
+      "part_name":"CAP BANK DRIVER - ORIGINAL",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 274,
+    "fields": {
+      "qb_number":"MDPN0065",
+      "eng_number":"10-00487",
+      "part_name":"1\" FLEXI-SEAL VENDOR DRAWING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 275,
+    "fields": {
+      "qb_number":"MDPN0067",
+      "eng_number":"0-47-3-09",
+      "part_name":"ROTOR DUMMY INCH R3",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 276,
+    "fields": {
+      "qb_number":"MDPN0077",
+      "eng_number":"10-00254",
+      "part_name":"MOTOR END BELL WIRE SIDE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 277,
+    "fields": {
+      "qb_number":"MDPN0081",
+      "eng_number":"0-47-4-09",
+      "part_name":"n/a",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 278,
+    "fields": {
+      "qb_number":"MDPN0088",
+      "eng_number":"10-00265",
+      "part_name":"MOTOR SUPR GEAR",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 279,
+    "fields": {
+      "qb_number":"MDPN0096",
+      "eng_number":"0-37-4-01",
+      "part_name":"FLEXI SEAL",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 280,
+    "fields": {
+      "qb_number":"MDPN0099",
+      "eng_number":"0-122-3-09",
+      "part_name":"POPPET TIP POPPET SHAFT.",
+      "part_length":2.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 281,
+    "fields": {
+      "qb_number":"MDPN0103",
+      "eng_number":"0-37-3-02",
+      "part_name":"SCREEN HOUSING",
+      "part_length":8.73
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 282,
+    "fields": {
+      "qb_number":"MDPN0104",
+      "eng_number":"0-37-3-22",
+      "part_name":"ROTARY CONNECTOR HOUSING",
+      "part_length":6.89
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 283,
+    "fields": {
+      "qb_number":"MDPN0118",
+      "eng_number":"0-37-4-28",
+      "part_name":"SERVO ORIFICE EXTENDED WITH TAIL",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 284,
+    "fields": {
+      "qb_number":"MDPN0119",
+      "eng_number":"0-37-4-29",
+      "part_name":"QMT-X+ POPPET TIP",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 285,
+    "fields": {
+      "qb_number":"MDPN0120",
+      "eng_number":"0-37-4-27",
+      "part_name":"QMT-X+ SERVO ORIFICE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 286,
+    "fields": {
+      "qb_number":"MDPN0121",
+      "eng_number":"0-47-3-12",
+      "part_name":"ROTOR DUMMY METRIC 635",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 287,
+    "fields": {
+      "qb_number":"MDPS0008",
+      "eng_number":"10-00276",
+      "part_name":"BALL SCREW",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 288,
+    "fields": {
+      "qb_number":"MDPS0065",
+      "eng_number":"0-37-3-07",
+      "part_name":"CAP BANK DRIVER - NEW",
+      "part_length":8.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 289,
+    "fields": {
+      "qb_number":"MDPS0097",
+      "eng_number":"0-37-3-18",
+      "part_name":"MOTOR - GEN2",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 290,
+    "fields": {
+      "qb_number":"MLSN0027",
+      "eng_number":"0-14-3-08",
+      "part_name":"WEAR COLLAR 2.375\" LANDING SLEEVE",
+      "part_length":2.044
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 291,
+    "fields": {
+      "qb_number":"MLSN0031",
+      "eng_number":"0-14-3-08",
+      "part_name":"WEAR COLLAR 3.125\" LANDING SLEEVE",
+      "part_length":2.044
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 292,
+    "fields": {
+      "qb_number":"MLSN0034",
+      "eng_number":"0-14-3-08",
+      "part_name":"WEAR COLLAR 3.750\" LANDING SLEEVE",
+      "part_length":2.044
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 293,
+    "fields": {
+      "qb_number":"MPDS0008",
+      "eng_number":"10-00277",
+      "part_name":"BALL SCREW SHAFT",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 294,
+    "fields": {
+      "qb_number":"SCTN0010",
+      "eng_number":"10-00199",
+      "part_name":"SST 3\" Chassis - Potted PCBA",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 295,
+    "fields": {
+      "qb_number":"SLON0001",
+      "eng_number":"0-20-3-11",
+      "part_name":"Up Elastomer",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 296,
+    "fields": {
+      "qb_number":"SLON0002",
+      "eng_number":"0-20-3-14",
+      "part_name":"Down Elastomer",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 296,
+    "fields": {
+      "qb_number":"SLPN1000",
+      "eng_number":"10-00264",
+      "part_name":"TEFLON RING",
+      "part_length":0.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 298,
+    "fields": {
+      "qb_number":"SLPN1002",
+      "eng_number":"10-00264",
+      "part_name":"TEFLON RING",
+      "part_length":0.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 299,
+    "fields": {
+      "qb_number":"SLPN1003",
+      "eng_number":"10-00264",
+      "part_name":"TEFLON RING",
+      "part_length":0.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 301,
+    "fields": {
+      "qb_number":"SLPN4128",
+      "eng_number":"10-00514",
+      "part_name":"TEFLON POLYPAK REG - 0.125\" WIDE",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 302,
+    "fields": {
+      "qb_number":"SN-1-001",
+      "eng_number":"SN-1-001",
+      "part_name":"SNUBBER SNUBBER LINK",
+      "part_length":2.85
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 303,
+    "fields": {
+      "qb_number":"SN-1-002",
+      "eng_number":"SN-1-002",
+      "part_name":"SNUBBER SNUBBER BASE",
+      "part_length":2.95
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 304,
+    "fields": {
+      "qb_number":"SN-1-004",
+      "eng_number":"SN-1-004",
+      "part_name":"SNUBBER SCREW PIN",
+      "part_length":1.05
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 305,
+    "fields": {
+      "qb_number":"SNRN0005",
+      "eng_number":"0-47-4-05",
+      "part_name":"SNAP RING 1in",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 306,
+    "fields": {
+      "qb_number":"SPRN0001",
+      "eng_number":"0-134-3-22",
+      "part_name":"SPEAR POINT",
+      "part_length":6.21
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 307,
+    "fields": {
+      "qb_number":"SPRN0015",
+      "eng_number":"0-126-3-16",
+      "part_name":"SPEARPOINT STEM SEWSCO-GE",
+      "part_length":11.8
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 308,
+    "fields": {
+      "qb_number":"SPRN0023",
+      "eng_number":"0-134-3-23",
+      "part_name":"DUMMY SWITCH COUPLING",
+      "part_length":1.36
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 309,
+    "fields": {
+      "qb_number":"STGN0003",
+      "eng_number":"0-14-3-11",
+      "part_name":"MCB SPLIT PISTON BTM\/LOWER 17-4 MTL",
+      "part_length":0.44
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 310,
+    "fields": {
+      "qb_number":"STGN0004",
+      "eng_number":"0-14-3-12",
+      "part_name":"MCB SPLIT PISTON TOP\/UPPER 17-4 MTL",
+      "part_length":0.65
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 311,
+    "fields": {
+      "qb_number":"STGN0015",
+      "eng_number":"0-14-3-05",
+      "part_name":"MCB - STINGER SHAFT",
+      "part_length":14.775
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 312,
+    "fields": {
+      "qb_number":"STGN0016",
+      "eng_number":"0-119-3-03",
+      "part_name":"STINGER SHAFT GE (THREE VARIATIONS RAM NO RAM ROUND BODY)",
+      "part_length":14.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 313,
+    "fields": {
+      "qb_number":"STGN0018",
+      "eng_number":"0-14-3-09",
+      "part_name":"MCB - STINGER WEAR COLLAR",
+      "part_length":0.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 314,
+    "fields": {
+      "qb_number":"STGN0023",
+      "eng_number":"0-20-4-01",
+      "part_name":"BELLEVILLE WASHER MODIFIED",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 315,
+    "fields": {
+      "qb_number":"STGN0026",
+      "eng_number":"10-00016",
+      "part_name":"SHAFT VIBRATION DAMPNER",
+      "part_length":17.63
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 316,
+    "fields": {
+      "qb_number":"STGN0027",
+      "eng_number":"10-00017",
+      "part_name":"MID BULKHEAD - NO BEARING",
+      "part_length":4.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 317,
+    "fields": {
+      "qb_number":"STGN0029",
+      "eng_number":"10-00020",
+      "part_name":"COMPRESSION HOUSING",
+      "part_length":10.48
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 318,
+    "fields": {
+      "qb_number":"STGN0034",
+      "eng_number":"10-00024",
+      "part_name":"SLIDING SEAL CAP - SRT-TC",
+      "part_length":5.3
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 319,
+    "fields": {
+      "qb_number":"STGN0035",
+      "eng_number":"10-00019",
+      "part_name":"PIN HOUSING - Oring Variation",
+      "part_length":7.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 320,
+    "fields": {
+      "qb_number":"STGN0036",
+      "eng_number":"10-00028",
+      "part_name":"OIL FILL PLUG",
+      "part_length":0.6
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 321,
+    "fields": {
+      "qb_number":"STGN0039",
+      "eng_number":"10-00053",
+      "part_name":"HALF PEG FOR BOTTOM END SHAFT",
+      "part_length":2.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 322,
+    "fields": {
+      "qb_number":"STGN0040",
+      "eng_number":"10-00023",
+      "part_name":"ANTI-ROTATION PEG - DRILLED",
+      "part_length":2.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 323,
+    "fields": {
+      "qb_number":"STGN0043",
+      "eng_number":"10-00068",
+      "part_name":"TOP COUPLER VIBRATION DAMPENER ",
+      "part_length":4.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 324,
+    "fields": {
+      "qb_number":"STGN0044",
+      "eng_number":"10-00270",
+      "part_name":"SRT VERTICAL SPRING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 325,
+    "fields": {
+      "qb_number":"STGN0052",
+      "eng_number":"10-00139",
+      "part_name":"COMPENSATION FRAME VIBRATION DAMPENER",
+      "part_length":1.455
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 326,
+    "fields": {
+      "qb_number":"STGN0054",
+      "eng_number":"10-00059",
+      "part_name":"VIBRATION DAMPENER SPRING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 327,
+    "fields": {
+      "qb_number":"STGN0056",
+      "eng_number":"10-00018",
+      "part_name":"BOTTOM STOPPER",
+      "part_length":2.225
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 328,
+    "fields": {
+      "qb_number":"STGN0057",
+      "eng_number":"10-00351",
+      "part_name":"MODIFIED BEARING. 3\/4\" LG",
+      "part_length":1.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 329,
+    "fields": {
+      "qb_number":"STGN0061",
+      "eng_number":"10-00352",
+      "part_name":"MODIFIED BEARING 1\" LG",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 330,
+    "fields": {
+      "qb_number":"STGN0065",
+      "eng_number":"10-00017",
+      "part_name":"MID BULKHEAD - WIRETIE MEMBRANE",
+      "part_length":4.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 331,
+    "fields": {
+      "qb_number":"STGN0067",
+      "eng_number":"10-00266",
+      "part_name":"PLENUM VARIATION COBALT & BORON",
+      "part_length":10.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 332,
+    "fields": {
+      "qb_number":"STGN0068",
+      "eng_number":"10-00242",
+      "part_name":"FILLER RING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 333,
+    "fields": {
+      "qb_number":"STGN0069",
+      "eng_number":"10-00269",
+      "part_name":"TOP HAT - SHORT - COMPRESSION STOP",
+      "part_length":0.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 334,
+    "fields": {
+      "qb_number":"STGN0070",
+      "eng_number":"10-00157",
+      "part_name":"TOP HAT - TALL - COMPRESSION WASHER",
+      "part_length":2.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 335,
+    "fields": {
+      "qb_number":"STGN0071",
+      "eng_number":"10-00306",
+      "part_name":"COMPENSATION SUPPORT FRAME",
+      "part_length":1.45
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 336,
+    "fields": {
+      "qb_number":"STGN0076",
+      "eng_number":"10-00023",
+      "part_name":"BLIND PEG",
+      "part_length":1.875
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 337,
+    "fields": {
+      "qb_number":"STGN0078",
+      "eng_number":"10-00017",
+      "part_name":"MID BULKHEAD - TC",
+      "part_length":4.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 338,
+    "fields": {
+      "qb_number":"STGN0079",
+      "eng_number":"10-00019",
+      "part_name":"PIN HOUSING - Big Hole TC",
+      "part_length":7.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 339,
+    "fields": {
+      "qb_number":"STGN0084",
+      "eng_number":"10-00324",
+      "part_name":"PIN SHAFT THREE PIECE 2 OF 3",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 340,
+    "fields": {
+      "qb_number":"STGN0085",
+      "eng_number":"10-00502",
+      "part_name":"DOUBLE SLIDING THREE PIECE LATCH 3\/3",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 341,
+    "fields": {
+      "qb_number":"STGN0097",
+      "eng_number":"10-00501",
+      "part_name":"PIN SHAFT THREE PIECE LATCH 2\/3",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 342,
+    "fields": {
+      "qb_number":"STGN0098",
+      "eng_number":"10-00325",
+      "part_name":"TOP THREE PIECE 3 OF 3",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 343,
+    "fields": {
+      "qb_number":"STGN0099",
+      "eng_number":"10-00018",
+      "part_name":"BOTTOM STOPPER - Captive Boot Style",
+      "part_length":2.225
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 344,
+    "fields": {
+      "qb_number":"STGN0100",
+      "eng_number":"10-00306",
+      "part_name":"COMPENSATION ASSEMBLY - ARCHIVED WAS SUPPOSED TO BE (CUST NUM)",
+      "part_length":1.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 345,
+    "fields": {
+      "qb_number":"STGN0101",
+      "eng_number":"10-00472",
+      "part_name":"BOTTOM STOPPER - BOOT EXPANDING RING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 346,
+    "fields": {
+      "qb_number":"STGN0102",
+      "eng_number":"10-00471",
+      "part_name":"BOTTOM STOPPER - RETAINING CAP FOR REVG",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 347,
+    "fields": {
+      "qb_number":"STGN0104",
+      "eng_number":"10-00478",
+      "part_name":"UPPER SPRING SEAL HOUSING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 348,
+    "fields": {
+      "qb_number":"STGN0105",
+      "eng_number":"10-00477",
+      "part_name":"LOWER SPRING SEAL HOUSING",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 349,
+    "fields": {
+      "qb_number":"STGN0106",
+      "eng_number":"10-00267",
+      "part_name":"BUSHING TORLON 4301",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 350,
+    "fields": {
+      "qb_number":"STGN0108",
+      "eng_number":"10-00018",
+      "part_name":"BOTTOM STOPPER",
+      "part_length":2.225
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 351,
+    "fields": {
+      "qb_number":"STGN0115",
+      "eng_number":"10-00028",
+      "part_name":"OIL FILL PLUG",
+      "part_length":0.6
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 352,
+    "fields": {
+      "qb_number":"STGN0116",
+      "eng_number":"10-00545",
+      "part_name":"WF - TOP COUPLER ADAPTER",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 353,
+    "fields": {
+      "qb_number":"STGN0117",
+      "eng_number":"10-00544",
+      "part_name":"WF - 3 PIECE BELL END",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 354,
+    "fields": {
+      "qb_number":"STGN0124",
+      "eng_number":"0-20-3-01",
+      "part_name":"SHAFT - SRT20",
+      "part_length":17.63
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 355,
+    "fields": {
+      "qb_number":"STGN0125",
+      "eng_number":"0-20-3-23",
+      "part_name":"Sliding Seal Cap Integral Boot SRT 20",
+      "part_length":7.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 356,
+    "fields": {
+      "qb_number":"STGN0126",
+      "eng_number":"0-20-3-30",
+      "part_name":"BOTTOM STOPPER INTEGRAL BOOT SRT20",
+      "part_length":3.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 357,
+    "fields": {
+      "qb_number":"STGN0127",
+      "eng_number":"0-20-3-07",
+      "part_name":"SRT20 PIN HOUSING TORSIONAL",
+      "part_length":7.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 358,
+    "fields": {
+      "qb_number":"STGN0128",
+      "eng_number":"0-20-3-04",
+      "part_name":"MID BULKHEAD - SRT20",
+      "part_length":4.065
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 359,
+    "fields": {
+      "qb_number":"STGN0129",
+      "eng_number":"0-20-3-06",
+      "part_name":"COMPRESSION HOUSING - SRT20",
+      "part_length":12.275
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 360,
+    "fields": {
+      "qb_number":"STGN0130",
+      "eng_number":"0-20-4-12",
+      "part_name":"1.5in Bearing Brass DH HT",
+      "part_length":1.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 361,
+    "fields": {
+      "qb_number":"STGN0131",
+      "eng_number":"0-20-3-15",
+      "part_name":"TORSIONAL CARTRIDGE",
+      "part_length":2.44
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 362,
+    "fields": {
+      "qb_number":"STGN0133",
+      "eng_number":"0-20-4-05",
+      "part_name":"BTM BELLOWS - SRT20",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 363,
+    "fields": {
+      "qb_number":"STGN0134",
+      "eng_number":"0-20-4-04",
+      "part_name":"TOP BELLOWS - SRT20",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 364,
+    "fields": {
+      "qb_number":"STGN0137",
+      "eng_number":"0-14-3-11",
+      "part_name":"MCB SPLIT PISTON BTM\/LOWER N50 MTL",
+      "part_length":0.44
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 365,
+    "fields": {
+      "qb_number":"STGN0138",
+      "eng_number":"0-14-3-12",
+      "part_name":"MCB SPLIT PISTON TOP\/UPPER N50 MTL",
+      "part_length":0.65
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 366,
+    "fields": {
+      "qb_number":"STGN0139",
+      "eng_number":"0-20-3-24",
+      "part_name":"TOP COUPLER - SRT20",
+      "part_length":4.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 367,
+    "fields": {
+      "qb_number":"STGN0140",
+      "eng_number":"0-20-3-10",
+      "part_name":"Up Cup",
+      "part_length":0.275
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 368,
+    "fields": {
+      "qb_number":"STGN0141",
+      "eng_number":"0-20-3-09",
+      "part_name":"Up Flange",
+      "part_length":0.275
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 369,
+    "fields": {
+      "qb_number":"STGN0142",
+      "eng_number":"0-20-3-13",
+      "part_name":"Down Cup",
+      "part_length":0.275
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 370,
+    "fields": {
+      "qb_number":"STGN0143",
+      "eng_number":"0-20-3-12",
+      "part_name":"Down Flange",
+      "part_length":0.275
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 371,
+    "fields": {
+      "qb_number":"STGN0144",
+      "eng_number":"0-20-3-25",
+      "part_name":"WASH PIPE",
+      "part_length":1.35
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 372,
+    "fields": {
+      "qb_number":"STGN0145",
+      "eng_number":"0-14-3-28",
+      "part_name":"MCB - COLLAR LOCK HEAVY DUTY",
+      "part_length":0.484
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 373,
+    "fields": {
+      "qb_number":"STGN0146",
+      "eng_number":"0-14-3-29",
+      "part_name":"MCB - WEAR COLLAR (MULESHOE) HEAVY DUTY 3.125\" LANDING SLEEVE",
+      "part_length":2.05
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 374,
+    "fields": {
+      "qb_number":"STGN0147",
+      "eng_number":"0-20-3-08",
+      "part_name":"SRT 20 COMPENSATION ASSEMBLY",
+      "part_length":1.375
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 375,
+    "fields": {
+      "qb_number":"STGN0149",
+      "eng_number":"0-20-4-06",
+      "part_name":"CRIMP RING SRT20",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 376,
+    "fields": {
+      "qb_number":"STGN0150",
+      "eng_number":"0-20-3-34",
+      "part_name":"RING FOR SHROUD SRT20",
+      "part_length":0.5
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 377,
+    "fields": {
+      "qb_number":"STGN0151",
+      "eng_number":"0-20-3-31",
+      "part_name":"SHROUD SRT20",
+      "part_length":1.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 378,
+    "fields": {
+      "qb_number":"STGN0221",
+      "eng_number":"11-07-600598",
+      "part_name":"PHOENIX - SOCKET SHAFT",
+      "part_length":18.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 379,
+    "fields": {
+      "qb_number":"STGN0243",
+      "eng_number":"10-00019",
+      "part_name":"PIN HOUSING - Small Hole TC",
+      "part_length":7.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 380,
+    "fields": {
+      "qb_number":"STGN0243altered",
+      "eng_number":"10-00019",
+      "part_name":"ALTERATION TO ...... PIN HOUSING - Small Hole TC",
+      "part_length":7.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 381,
+    "fields": {
+      "qb_number":"STGN0245",
+      "eng_number":"11-07-600600B 10-00620",
+      "part_name":"PHOENIX - Compensation Support",
+      "part_length":2.2
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 382,
+    "fields": {
+      "qb_number":"STGN0247",
+      "eng_number":"10-00621  11-07-600601",
+      "part_name":"PHOENIX - OIL FILL PLUG NITRONIC 50",
+      "part_length":0.7
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 383,
+    "fields": {
+      "qb_number":"STGN0248",
+      "eng_number":"PHX",
+      "part_name":"PHOENIX - ISOSTATIC BEARING BUY FROM BSI",
+      "part_length":0.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 384,
+    "fields": {
+      "qb_number":"STGN0249",
+      "eng_number":"10-00618 11-07-600581C",
+      "part_name":"PHOENIX - PIN HOUSING \"GC112\"",
+      "part_length":7.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 385,
+    "fields": {
+      "qb_number":"STGN0250",
+      "eng_number":"10-00566 11-07-600604 D",
+      "part_name":"BOTTOM STOPPER - PHOENIX",
+      "part_length":2.4
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 386,
+    "fields": {
+      "qb_number":"STGN0251",
+      "eng_number":"10-00691 11-07-600573B",
+      "part_name":"PHOENIX SRT COMPRESSION HOUSING",
+      "part_length":11.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 387,
+    "fields": {
+      "qb_number":"STGN0252",
+      "eng_number":"10-00619 11-07-600597 C",
+      "part_name":"PHOENIX - SLIDING SEAL CAP REF 10-00024",
+      "part_length":5.3
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 388,
+    "fields": {
+      "qb_number":"STGN0253",
+      "eng_number":"10-00018",
+      "part_name":"BOTTOM STOPPER - N50 TYPE",
+      "part_length":2.225
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 389,
+    "fields": {
+      "qb_number":"STGN0254",
+      "eng_number":"10-00068",
+      "part_name":"TOP COUPLER VIBRATION DAMPENER  PACESETTER",
+      "part_length":4.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 390,
+    "fields": {
+      "qb_number":"STGN0255",
+      "eng_number":"10-00623 11-07-600599 C",
+      "part_name":"PHOENIX - SRT ANTI-ROTATION PEG",
+      "part_length":2.0
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 391,
+    "fields": {
+      "qb_number":"STGN0264",
+      "eng_number":"10-00017",
+      "part_name":"MID BULKHEAD - TC NITRONIC 50",
+      "part_length":4.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 392,
+    "fields": {
+      "qb_number":"STGN0273",
+      "eng_number":"11-07-600574 B",
+      "part_name":"PHOENIX - MID BULHEAD",
+      "part_length":4.125
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 393,
+    "fields": {
+      "qb_number":"STGN0285",
+      "eng_number":"10-00020",
+      "part_name":"COMPRESSION HOUSING",
+      "part_length":10.48
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 394,
+    "fields": {
+      "qb_number":"STGN0289",
+      "eng_number":"35-02-600210 RB",
+      "part_name":"SRT Top Coupler (Phx Style)",
+      "part_length":4.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 395,
+    "fields": {
+      "qb_number":"STGN0291",
+      "eng_number":"0-14-3-15",
+      "part_name":"POPPET BOLT",
+      "part_length":0.989
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 396,
+    "fields": {
+      "qb_number":"STGN0292",
+      "eng_number":"0-14-3-13",
+      "part_name":"MCB - STINGER SHAFT GUIDE",
+      "part_length":0.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 397,
+    "fields": {
+      "qb_number":"STGN0294",
+      "eng_number":"0-119-3-13",
+      "part_name":"PLENUM -CO SLEEVE OR \"OUR STYLE INTERNAL METAL BORON\"",
+      "part_length":10.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 398,
+    "fields": {
+      "qb_number":"STGN0303",
+      "eng_number":"0-14-3-14M",
+      "part_name":"MCB - POPPET TOP-M",
+      "part_length":0.61
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 399,
+    "fields": {
+      "qb_number":"STGN0305",
+      "eng_number":"0-14-3-19",
+      "part_name":"MCB - HELIX COLLAR",
+      "part_length":11.85
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 400,
+    "fields": {
+      "qb_number":"STGN0306",
+      "eng_number":"0-119-3-06",
+      "part_name":"PISTON CAP 4 POLY STYLE",
+      "part_length":1.25
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 401,
+    "fields": {
+      "qb_number":"STGN0307",
+      "eng_number":"0-14-3-21",
+      "part_name":"MCB - SPLIT LAND",
+      "part_length":0.7
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 402,
+    "fields": {
+      "qb_number":"STGN0313",
+      "eng_number":"0-14-3-14L",
+      "part_name":"MCB - POPPET TOP-L",
+      "part_length":0.61
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 403,
+    "fields": {
+      "qb_number":"STGN0318",
+      "eng_number":"0-14-3-30",
+      "part_name":"MCB - SPLIT LANDING - HD",
+      "part_length":0.75
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 404,
+    "fields": {
+      "qb_number":"STGN0319",
+      "eng_number":"0-14-3-31",
+      "part_name":"SHAFT GUIDE 7\/8 TRAVEL",
+      "part_length":0.937
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 405,
+    "fields": {
+      "qb_number":"STGN0320",
+      "eng_number":"0-14-3-32",
+      "part_name":"SHAFT GUIDE 5\/8 TRAVEL",
+      "part_length":1.187
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 406,
+    "fields": {
+      "qb_number":"STGN0321",
+      "eng_number":"0-14-3-33",
+      "part_name":"WEAR COLLAR TOOTH",
+      "part_length":0.625
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 407,
+    "fields": {
+      "qb_number":"STGN0322",
+      "eng_number":"0-20-3-16",
+      "part_name":"RAM - Double Up",
+      "part_length":0.1
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 408,
+    "fields": {
+      "qb_number":"STGN0323",
+      "eng_number":"0-20-3-17",
+      "part_name":"LEDGE - Double Up",
+      "part_length":0.225
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 409,
+    "fields": {
+      "qb_number":"STGN0324",
+      "eng_number":"0-119-3-09",
+      "part_name":"PLENUM REG 13\"LG SLEEVE CERAMIC ",
+      "part_length":13.05
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 410,
+    "fields": {
+      "qb_number":"STGN0330",
+      "eng_number":"0-20-4-13",
+      "part_name":"1.0in Bearing Brass UH HT",
+      "part_length":1.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 411,
+    "fields": {
+      "qb_number":"STGN0348",
+      "eng_number":"10-00017",
+      "part_name":"MID BULKHEAD - WIRETIE MEMBRANE NITRONIC 50",
+      "part_length":4.625
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 412,
+    "fields": {
+      "qb_number":"TWL-3-03",
+      "eng_number":"TWL-3-03",
+      "part_name":"12in DUST CAP FLANGE - AL",
+      "part_length":1.75
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 413,
+    "fields": {
+      "qb_number":"TWL-3-04",
+      "eng_number":"TWL-3-04",
+      "part_name":"12in DUST CAP",
+      "part_length":0.95
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 414,
+    "fields": {
+      "qb_number":"TWL-3-05",
+      "eng_number":"TWL-3-05",
+      "part_name":"10in DUST CAP FLANGE - STEEL",
+      "part_length":0.0
+
+    }
+  },
+  {
+    "model": "jobs.product",
+    "pk": 415,
+    "fields": {
+      "qb_number":"TWL-3-06",
+      "eng_number":"TWL-3-06",
+      "part_name":"10in DUST CAP",
+      "part_length":0.89
+
+    }
+  }
+]
