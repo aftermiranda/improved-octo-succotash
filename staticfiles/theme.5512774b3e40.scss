@@ -1,0 +1,139 @@
+html {
+    font-size: 16px;
+}
+
+/* Header & Navbar */
+
+
+
+
+/* Body & Body Elements */
+body {
+    padding-top: 75px;
+}
+
+.center {
+    text-align: center;
+}
+
+/* Lists and List Elements */
+ul {
+    list-style: none;
+}
+
+/* Tables */
+.product-list {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Job Sheet Specific */
+.container{
+    &.job-sheet{
+        width: 800px;
+        border: 1px solid #000;
+        padding: 15px;
+        margin: 0px;
+    }
+}
+
+.row{
+    &.above-fold{
+        margin: 10px 0 10px 0;
+        font-size: 20px;
+    }
+    &.qc{
+        text-align: right;
+        padding-right: 15px;
+    }
+    &.fold-line{
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        text-align: center;
+    }
+    &.above-header{
+        border-bottom: 2px solid #000;
+    }
+    &.job-details{
+        border-bottom: 1px solid #000;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+    &.center-bold{
+        text-align: center;
+        font-weight: bold;
+        font-size: 12px;
+    }
+}
+
+.col{
+    &.deadline{
+        text-align: center;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 12px;
+        border-bottom: 1px solid #000;
+    }
+    &.below-deadline{
+        @extend .deadline;
+        font-size: 16px;
+    }
+    &.date{
+        text-align: center;
+        font-weight: bold;
+        font-size: 24px;
+    }
+    &.center{
+        text-align: center;
+        font-weight: bold;
+        font-size: 12px;
+    }
+    &.right{
+        text-align: right;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    &.part-title{
+        text-align: right;
+        font-weight: bold;
+        border-right: 1px solid #000;
+        font-size: 12px;
+    }
+    &.part-info{
+        text-align: left;
+        font-size: 12px;
+    }
+    &.part-information{
+        padding-top: 15px;
+        self-align: center;
+    }
+    &.qty{
+        text-align: right;
+        font-weight: bold;
+        font-size: 12px;
+    }
+    &.part-marking-rules{
+        text-align: left;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    &.job-notes{
+        text-align: center;
+        font-weight: bold;
+    }
+}
+.job-number{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    border: 1px solid #000;
+    margin: 0 0 -1px 15px;
+}
+
+ol{
+    &.part-marking{
+        font-size: 12px;
+        text-align: center;
+        font-weight: normal;
+    }
+}
