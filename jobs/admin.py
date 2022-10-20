@@ -7,7 +7,7 @@ class ProductAdmin(admin.ModelAdmin):
     pass
 
 @admin.register(Job)
-class = JobAdmin(admin.ModelAdmin):
+class JobAdmin(admin.ModelAdmin):
     pass
 
 
