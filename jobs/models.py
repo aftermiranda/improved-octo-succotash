@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Product(models.Model):
     qb_number = models.CharField(max_length=50, unique=True,
                                  verbose_name="Quick Books Number")
@@ -11,6 +12,12 @@ class Product(models.Model):
                                     verbose_name="Part Length (inches)")
     part_material = models.CharField(max_length=20, blank=True,
                                      verbose_name="Part Material")
+    part_raw_mtl_cost = models.FloatField(max_length=10, blank=True, default=0.00,
+                                          verbose_name="Part Cost in Raw Material")
+    part_vend_name = models.CharField(max_length=500, blank=True,
+                                      verbose_name="Vendor Part Name")
+    part_vend_cost = models.CharField(max_length=50, blank=True,
+                                      verbose_name="Purchase from Vendor Cost")
 
     def __str__(self):
         return self.qb_number
@@ -18,6 +25,7 @@ class Product(models.Model):
     class Meta:
         # default sorting order for searches in the product class
         ordering = ['qb_number']
+
 
 class Job(models.Model):
     job_number = models.CharField(max_length=10, unique=True)
