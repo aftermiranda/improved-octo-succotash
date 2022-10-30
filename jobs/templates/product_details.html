@@ -7,17 +7,17 @@
 {% endblock %}
 
 {% block page_content %}
-<h1 class="center">{{ product.qb_number }}</h1>
+<h1 class="text-center">{{ product.qb_number }}</h1>
 <div class="container">
 <div class="card-group">
     <div class="card">
       <div class="card-body">
-        <p class="card-text">Engineering Number : {{ product.eng_number }} </p>
-        <p class="card-text">Part Name : {{ product.part_name }}</p>
-        <p class="card-text">Part Length : {{ product.part_length }} inches</p>
-        <p class="card-text">Part Material : {{ product.part_material }}</p>
-        <p class="card-text">Part Vendor Name : {{ product.part_vend_name}}</p>
-        <p class="card-text">Part Used In : {{ product.part_used_in }}</p>
+        <p class="card-text"><strong>Engineering Number :</strong> {{ product.eng_number }} </p>
+        <p class="card-text"><strong>Part Name :</strong> {{ product.part_name }}</p>
+        <p class="card-text"><strong>Part Length :</strong> {{ product.part_length }} inches</p>
+        <p class="card-text"><strong>Part Material :</strong> {{ product.part_material }}</p>
+        <p class="card-text"><strong>Part Vendor Name :</strong> {{ product.part_vend_name}}</p>
+        <p class="card-text"><strong>Part Used In :</strong> {{ product.part_used_in }}</p>
       </div>
     </div>
     <div class="card">
