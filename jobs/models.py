@@ -22,6 +22,8 @@ class Product(models.Model):
                                     verbose_name="Part, Where Used")
     part_current_rev = models.CharField(max_length=10, blank=True,
                                         verbose_name="Current Revision")
+    part_image_file = models.FileField(max_length=10, blank=True,
+                                       verbose_name="Image of the Part")
     part_current_drw = models.FileField(max_length=10, blank=True,
                                         verbose_name="Current PDF of Part Drawing")
     part_manf_op1 = models.FileField(max_length=10, blank=True,
