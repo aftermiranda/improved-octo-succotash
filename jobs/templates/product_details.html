@@ -7,20 +7,36 @@
 {% endblock %}
 
 {% block page_content %}
-    <h1>{{ product.qb_number }}</h1>
-    <p>Engineering Number : {{ product.eng_number }}</p>
-    <p>Part Name : {{ product.part_name }}</p>
-    <p>Part Length : {{ product.part_length }} inches</p>
-    <p>Part Material : {{ product.part_material }}</p>
-    <p>Part Vendor Name : {{ product.part_vend_name}}</p>
-    <p>Part Used In : {{ product.part_used_in }}</p>
-    <p>Part Current Revision  :  {{part_current_rev}}</p>
-    <p>Part Image File : {{part_image_file}}</p>
-    <p>Current Manufacturing Drawing : {{part_current_drw}}</p>
-    <p>GCode File 1 : {{part_manf_op1}}</p>
-    <p>GCode File 2 : {{part_manf_op2}}</p>
-    <p>GCode File 3 : {{part_manf_op3}}</p>
-    <p>GCode File 4 : {{part_manf_op4}}</p>
+<h1>{{ product.qb_number }}</h1>
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <p class="card-text">Engineering Number : {{ product.eng_number }} </p>
+        <p class="card-text">Part Name : {{ product.part_name }}</p>
+        <p class="card-text">Part Length : {{ product.part_length }} inches</p>
+        <p class="card-text">Part Material : {{ product.part_material }}</p>
+        <p class="card-text">Part Vendor Name : {{ product.part_vend_name}}</p>
+        <p class="card-text">Part Used In : {{ product.part_used_in }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+        <img class="card-img-top" src="{{ product.part_image_file }}" alt="{{ product.part_name }}">
+        <div class="card-body">
+            <p class="card-text">Latest Image</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h1>Attachments</h1>
+<p>Current Manufacturing Drawing : {{product.part_current_drw}}</p>
+<p>GCode File 1 : {{product.part_manf_op1}}</p>
+<p>GCode File 2 : {{product.part_manf_op2}}</p>
+<p>GCode File 3 : {{product.part_manf_op3}}</p>
+<p>GCode File 4 : {{product.part_manf_op4}}</p>
 
 
 {% endblock %}
