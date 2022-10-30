@@ -9,7 +9,8 @@
 {% block page_content %}
 <h1 class="center">{{ product.qb_number }}</h1>
 <div class="container">
-<div class="row">
+<div class="card-group">
+
   <div class="col-md-6">
     <div class="card">
       <div class="card-body">
@@ -32,12 +33,14 @@
   </div>
 </div>
   <div class="row">
-    <h1>Attachments</h1>
-    <p>Current Manufacturing Drawing : {{product.part_current_drw}}</p>
-    <p>GCode File 1 : {{product.part_manf_op1}}</p>
-    <p>GCode File 2 : {{product.part_manf_op2}}</p>
-    <p>GCode File 3 : {{product.part_manf_op3}}</p>
-    <p>GCode File 4 : {{product.part_manf_op4}}</p>
+    <div class="card">
+      <h5 class="card-title text-center">Attachments</h5>
+      <p class="card-text">Current Manufacturing Drawing : {{product.part_current_drw}}</p>
+      <p class="card-text">GCode File 1 : {{product.part_manf_op1}}</p>
+      <p class="card-text">GCode File 2 : {{product.part_manf_op2}}</p>
+      <p class="card-text">GCode File 3 : {{product.part_manf_op3}}</p>
+      <p class="card-text">GCode File 4 : {{product.part_manf_op4}}</p>
+    </div>
   </div>
 </div>
 
