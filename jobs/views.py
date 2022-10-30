@@ -34,9 +34,10 @@ def add_job(request):
         formset = add_form_set(request.POST)
         if formset.is_valid():
             formset.save()
-            newest_jobs = Job.objects.order_by('-create_date')[:15]
-            context = {'newest_jobs': newest_jobs}
-            HttpResponseRedirect(reverse('job_list.html', context))
+            job_number = formset.job_number()
+            newest_job = Job.objects.get(job_number=job_number)
+            context = {'job': newest_job}
+            HttpResponseRedirect('job_sheet.html', context)
         else:
             raise ValidationError("Oops! Something went wrong!")
     else:
@@ -55,13 +56,19 @@ def product_list(request):
     return render(request, 'products.html', context)
 
 def add_product(request):
-    add_fields = ['qb_number', 'eng_number', 'part_name', 'part_length', 'part_material']
+    add_fields = ['qb_number', 'eng_number', 'part_name', 'part_length', 'part_material',
+                  'part_current_drw', 'part_manf_op1', 'part_manf_op2', 'part_manf_op3', 'part_manf_op4']
     add_labels = {
         'qb_number': _('Quick Books Number'),
         'eng_number': _('Engineering Number'),
         'part_name': _('Part Name'),
         'part_length': _('Part Length (inches)'),
         'part_material': _('Part Material'),
+        'part_current_draw': _('Current Part Drawing'),
+        'part_manf_op1': _('1st GCode Attachment'),
+        'part_manf_op2': _('2nd GCode Attachment'),
+        'part_manf_op3': _('3rd GCode Attachment'),
+        'part_manf_op4': _('4th GCode Attachment'),
     }
     add_form_set = modelformset_factory(Product, fields=add_fields, labels=add_labels)
     if request.method == 'POST':
