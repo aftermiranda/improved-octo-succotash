@@ -18,6 +18,21 @@ class Product(models.Model):
                                       verbose_name="Vendor Part Name")
     part_vend_cost = models.CharField(max_length=50, blank=True,
                                       verbose_name="Purchase from Vendor Cost")
+    part_used_in = models.CharField(max_length=500, blank=True,
+                                    verbose_name="Part, Where Used")
+    part_current_rev = models.CharField(max_length=10, blank=True,
+                                        verbose_name="Current Revision")
+    part_current_drw = models.CharField(max_length=10, blank=True,
+                                        verbose_name="Current PDF of Part Drawing")
+    part_manf_op1 = models.CharField(max_length=10, blank=True,
+                                     verbose_name="1st GCode Attachment")
+    part_manf_op2 = models.CharField(max_length=10, blank=True,
+                                     verbose_name="2nd GCode Attachment")
+    part_manf_op3 = models.CharField(max_length=10, blank=True,
+                                     verbose_name="3rd GCode Attachment")
+    part_manf_op4 = models.CharField(max_length=10, blank=True,
+                                     verbose_name="4th GCode Attachment")
+
 
     def __str__(self):
         return self.qb_number
@@ -42,3 +57,19 @@ class Job(models.Model):
     class Meta:
         # default sorting order for searches in the job class
         ordering = ['-create_date', '-start_date']
+
+
+class Assembly(models.Model):
+    qb_assembly_number = models.CharField(max_length=50, unique=True,
+                                 verbose_name="Quick Books Assembly Number")
+    assembly_number = models.CharField(max_length=10, unique=True,
+                                       verbose_name="Assembly Engineering Number")
+    product = models.ManyToManyField(Product, db_index=False,
+                                verbose_name="Quick Books Number for Part")
+
+    def __str__(self):
+        return self.qb_assembly_number
+
+    class Meta:
+        # default sorting order for searches in the job class
+        ordering = ['qb_assembly_number']
