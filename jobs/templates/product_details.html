@@ -20,7 +20,6 @@
         <p class="card-text">Part Used In : {{ product.part_used_in }}</p>
       </div>
     </div>
-
     <div class="card">
         <img class="card-img-top" src="{{ product.part_image_file }}" alt="{{ product.part_name }}">
         <div class="card-body">
@@ -28,7 +27,7 @@
       </div>
     </div>
 </div>
-  <div class="row">
+
     <div class="card">
       <h5 class="card-title text-center">Attachments</h5>
       <p class="card-text">Current Manufacturing Drawing : {{product.part_current_drw}}</p>
@@ -37,7 +36,7 @@
       <p class="card-text">GCode File 3 : {{product.part_manf_op3}}</p>
       <p class="card-text">GCode File 4 : {{product.part_manf_op4}}</p>
     </div>
-  </div>
+
 </div>
 
 {% endblock %}
