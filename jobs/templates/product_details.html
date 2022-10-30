@@ -10,7 +10,7 @@
 <h1 class="center">{{ product.qb_number }}</h1>
 <div class="container">
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-md-6">
     <div class="card">
       <div class="card-body">
         <p class="card-text">Engineering Number : {{ product.eng_number }} </p>
@@ -22,7 +22,7 @@
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-md-6">
     <div class="card">
         <img class="card-img-top" src="{{ product.part_image_file }}" alt="{{ product.part_name }}">
         <div class="card-body">
@@ -31,13 +31,14 @@
     </div>
   </div>
 </div>
-
-<h1>Attachments</h1>
-<p>Current Manufacturing Drawing : {{product.part_current_drw}}</p>
-<p>GCode File 1 : {{product.part_manf_op1}}</p>
-<p>GCode File 2 : {{product.part_manf_op2}}</p>
-<p>GCode File 3 : {{product.part_manf_op3}}</p>
-<p>GCode File 4 : {{product.part_manf_op4}}</p>
+  <div class="row">
+    <h1>Attachments</h1>
+    <p>Current Manufacturing Drawing : {{product.part_current_drw}}</p>
+    <p>GCode File 1 : {{product.part_manf_op1}}</p>
+    <p>GCode File 2 : {{product.part_manf_op2}}</p>
+    <p>GCode File 3 : {{product.part_manf_op3}}</p>
+    <p>GCode File 4 : {{product.part_manf_op4}}</p>
+  </div>
 </div>
 
 {% endblock %}
