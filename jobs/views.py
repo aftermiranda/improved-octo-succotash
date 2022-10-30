@@ -56,7 +56,7 @@ def product_list(request):
     return render(request, 'products.html', context)
 
 def add_product(request):
-    add_fields = ['qb_number', 'eng_number', 'part_name', 'part_length', 'part_material',
+    add_fields = ['qb_number', 'eng_number', 'part_name', 'part_length', 'part_material', 'part_image_file',
                   'part_current_drw', 'part_manf_op1', 'part_manf_op2', 'part_manf_op3', 'part_manf_op4']
     add_labels = {
         'qb_number': _('Quick Books Number'),
@@ -64,6 +64,7 @@ def add_product(request):
         'part_name': _('Part Name'),
         'part_length': _('Part Length (inches)'),
         'part_material': _('Part Material'),
+        'part_image_file': _('Part Image File'),
         'part_current_draw': _('Current Part Drawing'),
         'part_manf_op1': _('1st GCode Attachment'),
         'part_manf_op2': _('2nd GCode Attachment'),
