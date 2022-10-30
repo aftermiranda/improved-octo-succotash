@@ -10,8 +10,6 @@
 <h1 class="center">{{ product.qb_number }}</h1>
 <div class="container">
 <div class="card-group">
-
-  <div class="col-md-6">
     <div class="card">
       <div class="card-body">
         <p class="card-text">Engineering Number : {{ product.eng_number }} </p>
@@ -22,15 +20,13 @@
         <p class="card-text">Part Used In : {{ product.part_used_in }}</p>
       </div>
     </div>
-  </div>
-  <div class="col-md-6">
+
     <div class="card">
         <img class="card-img-top" src="{{ product.part_image_file }}" alt="{{ product.part_name }}">
         <div class="card-body">
             <p class="card-text">Latest Image</p>
       </div>
     </div>
-  </div>
 </div>
   <div class="row">
     <div class="card">
