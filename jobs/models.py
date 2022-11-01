@@ -75,3 +75,19 @@ class Assembly(models.Model):
     class Meta:
         # default sorting order for searches in the job class
         ordering = ['qb_assembly_number']
+
+
+class Asset(models.Model):
+    asset_serial_number = models.CharField(max_length=50, unique=True,
+                                 verbose_name="Asset Serial Number")
+    asset_owner = models.CharField(max_length=10, unique=True,
+                                       verbose_name="Asset Owner")
+    asset_product_name = models.ManyToManyField(Product, db_index=False,
+                                verbose_name="Asset Product Name")
+
+    def __str__(self):
+        return self.asset_serial_number
+
+    class Meta:
+        # default sorting order for searches in the job class
+        ordering = ['asset_serial_number']
