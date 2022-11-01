@@ -11,7 +11,7 @@ def job_index(request):
     return render(request, 'job_index.html', {})
 
 def job_list(request):
-    newest_jobs = Job.objects.order_by('-job.number')[:20]
+    newest_jobs = Job.objects.order_by('job_number')[:20]
     context = {'newest_jobs': newest_jobs}
     return render(request, 'job_list.html', context)
 
