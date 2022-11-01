@@ -20,17 +20,17 @@ class Product(models.Model):
                                       verbose_name="Purchase from Vendor Cost")
     part_used_in = models.CharField(max_length=500, blank=True,
                                     verbose_name="Part, Where Used")
-    part_current_rev = models.CharField(max_length=10, blank=True,
+    part_current_rev = models.CharField(max_length=25, blank=True,
                                         verbose_name="Current Revision")
-    part_image_file = models.FileField(max_length=10, blank=True,
+    part_image_file = models.FileField(max_length=50, blank=True,
                                        verbose_name="Image of the Part")
-    part_current_drw = models.FileField(max_length=10, blank=True,
+    part_current_drw = models.FileField(max_length=50, blank=True,
                                         verbose_name="Current PDF of Part Drawing")
-    part_manf_op1 = models.FileField(max_length=10, blank=True,
+    part_manf_op1 = models.FileField(max_length=50, blank=True,
                                      verbose_name="1st GCode Attachment")
-    part_manf_op2 = models.FileField(max_length=10, blank=True,
+    part_manf_op2 = models.FileField(max_length=50, blank=True,
                                      verbose_name="2nd GCode Attachment")
-    part_manf_op3 = models.FileField(max_length=10, blank=True,
+    part_manf_op3 = models.FileField(max_length=50, blank=True,
                                      verbose_name="3rd GCode Attachment")
     part_manf_op4 = models.FileField(max_length=10, blank=True,
                                      verbose_name="4th GCode Attachment")
