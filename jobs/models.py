@@ -20,6 +20,8 @@ class Product(models.Model):
                                       verbose_name="Purchase from Vendor Cost")
     part_used_in = models.CharField(max_length=500, blank=True,
                                     verbose_name="Part, Where Used")
+    part_sale_price = models.CharField(max_length=500, blank=True,
+                                      verbose_name="Part Sale Price")
     part_current_rev = models.CharField(max_length=25, blank=True,
                                         verbose_name="Current Revision")
     part_image_file = models.FileField(max_length=50, blank=True,
@@ -80,10 +82,12 @@ class Assembly(models.Model):
 class Asset(models.Model):
     asset_serial_number = models.CharField(max_length=50, unique=True,
                                  verbose_name="Asset Serial Number")
-    asset_owner = models.CharField(max_length=10, unique=True,
+    asset_owner = models.CharField(max_length=10, blank=True,
                                        verbose_name="Asset Owner")
-    asset_product_name = models.ManyToManyField(Product, db_index=False,
+    asset_product_name = models.CharField(max_length=100, blank=True,
                                 verbose_name="Asset Product Name")
+    asset_sale_price = models.CharField(max_length=20, blank=True,
+                                        verbose_name="Sale Price, MSRP")
 
     def __str__(self):
         return self.asset_serial_number
