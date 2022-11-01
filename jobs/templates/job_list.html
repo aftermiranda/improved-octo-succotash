@@ -7,17 +7,28 @@ Job List
 {% endblock %}
 
 {% block page_content %}
-<h1 class="center">Job List</h1>
+<h1 class="text-center">Job List</h1>
     {% if newest_jobs %}
+    <div class="container">
         <table class="table table-striped">
+            <thead>
+                <td>Job Number</td>
+                <td>Part Name</td>
+                <td>Job Creation Date</td>
+                <td>Job Deadline</td>
+
+
+            </thead>
         {% for job in newest_jobs %}
             <tr>
                 <td><a href="{% url 'jobs:job_sheet' job.job_number %}">{{ job.job_number }}</a></td>
+                <td>{{ job.product.part_name }}</td>
                 <td>{{ job.create_date }}</td>
                 <td>{{ job.machine_deadline }}</td>
             </tr>
         {% endfor %}
         </table>
+        </div>
     {% else %}
         <p>No jobs available</p>
     {% endif %}
