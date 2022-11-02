@@ -19,7 +19,7 @@
             {% for product in product_list %}
                 <tr>
                     <td class="center"><a href="{% url 'jobs:product_detail' product.qb_number %}">{{ product.qb_number }}</a></td>
-                    <td>{{product.eng_number}}</td>
+                    <td>{{ product.eng_number }}</td>
                     <td>{{ product.part_name }}</td>
                 </tr>
             {% endfor %}
