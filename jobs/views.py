@@ -95,3 +95,7 @@ def product_detail(request, qb_number):
         return render(request, 'product_details.html', {'product': product})
     else:
         return render(request, 'products.html', {})
+
+
+def assembly(request):
+    return render(request, 'assembly.html', {})

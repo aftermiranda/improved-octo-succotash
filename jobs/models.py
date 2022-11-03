@@ -18,10 +18,8 @@ class Product(models.Model):
                                       verbose_name="Vendor Part Name")
     part_vend_cost = models.CharField(max_length=50, blank=True,
                                       verbose_name="Purchase from Vendor Cost")
-    part_used_in = models.CharField(max_length=500, blank=True,
-                                    verbose_name="Part, Where Used")
     part_sale_price = models.CharField(max_length=500, blank=True,
-                                      verbose_name="Part Sale Price")
+                                       verbose_name="Part Sale Price")
     part_current_rev = models.CharField(max_length=25, blank=True,
                                         verbose_name="Current Revision")
     part_image_file = models.FileField(max_length=50, blank=True,
@@ -60,38 +58,37 @@ class Job(models.Model):
 
     class Meta:
         # default sorting order for searches in the job class
-        ordering = ['-create_date', '-start_date']
+        ordering = ['-job_number']
 
 
-class Assembly(models.Model):
-    qb_assembly_number = models.CharField(max_length=50, unique=True,
-                                 verbose_name="Quick Books Assembly Number")
-    assembly_number = models.CharField(max_length=10, unique=True,
-                                       verbose_name="Assembly Engineering Number")
-    product = models.ManyToManyField(Product, db_index=False,
-                                verbose_name="Quick Books Number for Part")
+#class Assembly(models.Model):
+#   qb_assembly_number = models.CharField(max_length=50, unique=True,
+#                                        verbose_name="Quick Books Assembly Number")
+# eng_assembly_number = models.CharField(max_length=10, unique=True,
+#                                       verbose_name="Assembly Engineering Number")
 
-    def __str__(self):
-        return self.qb_assembly_number
+#    def __str__(self):
+#        return self.qb_assembly_number
 
-    class Meta:
+#    class Meta:
         # default sorting order for searches in the job class
-        ordering = ['qb_assembly_number']
+#        ordering = ['qb_assembly_number']
 
 
-class Asset(models.Model):
-    asset_serial_number = models.CharField(max_length=50, unique=True,
-                                 verbose_name="Asset Serial Number")
-    asset_owner = models.CharField(max_length=10, blank=True,
-                                       verbose_name="Asset Owner")
-    asset_product_name = models.CharField(max_length=100, blank=True,
-                                verbose_name="Asset Product Name")
-    asset_sale_price = models.CharField(max_length=20, blank=True,
-                                        verbose_name="Sale Price, MSRP")
+#class Asset(models.Model):
+#    asset_serial_number = models.CharField(max_length=50, unique=True,
+#                                           verbose_name="Asset Serial Number")
+#    asset_owner = models.CharField(max_length=10, blank=True,
+#                                   verbose_name="Asset Owner")
+#    asset_product_name = models.CharField(max_length=100, blank=True,
+#                                          verbose_name="Asset Product Name")
+#    asset_sale_price = models.CharField(max_length=20, blank=True,
+#                                        verbose_name="Sale Price, MSRP")
 
-    def __str__(self):
-        return self.asset_serial_number
+#    def __str__(self):
+#        return self.asset_serial_number
 
-    class Meta:
-        # default sorting order for searches in the job class
-        ordering = ['asset_serial_number']
+#    class Meta:
+#        # default sorting order for searches in the job class
+#        ordering = ['asset_serial_number']
+

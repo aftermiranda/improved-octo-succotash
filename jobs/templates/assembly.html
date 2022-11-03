@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title_content %}
+<title>Details for {{ assembly.qb_assembly_number }}</title>
+{% endblock %}
+
+{% block page_content %}
+<h1 class="text-center">{{ assembly.qb_assembly_number }}</h1>
+<div class="container">
+<div class="card-group">
+    <div class="card">
+      <div class="card-body">
+        <p class="card-text"><strong>Part Name</strong> {{ assembly.product.part_name }} </p>
+        <p class="card-text"><strong>Quantity :</strong> {{ assembly.product_quantity }}</p>
+      </div>
+    </div>
+    <div class="card">
+        <img class="card-img-top" src="#" alt="{{ assembly.assembly_number }}">
+        <div class="card-body">
+            <p class="card-text text-center">Latest Image</p>
+      </div>
+    </div>
+</div>
+
+    <div class="card">
+      <h5 class="card-title text-center">Attachments</h5>
+      <p class="card-text"><strong>Current Manufacturing Drawing :</strong> {{product.part_current_drw}}</p>
+      <p class="card-text"><strong>GCode File 1 :</strong> {{product.part_manf_op1}}</p>
+      <p class="card-text"><strong>GCode File 2 :</strong> {{product.part_manf_op2}}</p>
+      <p class="card-text"><strong>GCode File 3 :</strong> {{product.part_manf_op3}}</p>
+      <p class="card-text"><strong>GCode File 4 :</strong> {{product.part_manf_op4}}</p>
+    </div>
+
+</div>
+
+{% endblock %}
