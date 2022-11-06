@@ -33,10 +33,12 @@ if IS_HEROKU:
 else:
     ALLOWED_HOSTS = []
 
-if IS_HEROKU:
-    DEBUG = False
-else:
-    DEBUG = True
+# if IS_HEROKU:
+#     DEBUG = False
+# else:
+#     DEBUG = True
+
+DEBUG = True
 
 # Application definition
 
