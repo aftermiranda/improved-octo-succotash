@@ -26,6 +26,8 @@ class Product(models.Model):
                                        verbose_name="Image of the Part")
     part_current_drw = models.FileField(max_length=50, blank=True,
                                         verbose_name="Current PDF of Part Drawing")
+    part_tool = models.CharField(max_length=150, blank=True,
+                                 verbose_name="Tool For Part")
     part_manf_op1 = models.FileField(max_length=50, blank=True,
                                      verbose_name="1st GCode Attachment")
     part_manf_op2 = models.FileField(max_length=50, blank=True,
